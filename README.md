@@ -9,10 +9,12 @@
 | Priority | What matters | Rule |
 |---|---|---|
 | **1. Total university fees** | Complete medical degree, not annual tuition | **Hard maximum: below ₹60 lakh** for the entire course. Aim for **₹50 lakh or less** to leave financial headroom. |
-| **2. Full medical knowledge + live practical training** | Rigorous theory, anatomy and laboratory teaching, early clinical contact, actual supervised patient care, procedural skills, rotations, simulation and meaningful internship | Verify actual curriculum, teaching hospitals and clinical experience. Rankings and marketing claims are insufficient. |
-| **3. NMC regulatory pathway** | Ability of an Indian graduate to qualify for registration and medical practice in India | Establish compliance with **applicable National Medical Commission (NMC) rules**; never mislabel a foreign university “NMC-certified.” |
+| **2. NMC regulatory pathway** | Ability of an Indian graduate to qualify for registration and medical practice in India | Establish compliance with **applicable National Medical Commission (NMC) rules**; never mislabel a foreign university “NMC-certified.” |
+| **3. Full medical knowledge + live practical training** | Rigorous theory, anatomy and laboratory teaching, early clinical contact, actual supervised patient care, procedural skills, rotations, simulation and meaningful internship | Verify actual curriculum, teaching hospitals and clinical experience. Rankings and marketing claims are insufficient. |
 | **4. Safety** | Campus, hostels, city and clinical-placement travel; low risk of violence, ragging, harassment and discrimination | Seek independent incident data and enforceable protection measures. **No university is guaranteed crime-free.** |
 | **5. Career opportunities** | Quality of internships, licensing, postgraduate/residency pathways, employability, research and international mobility | Verify actual eligibility and outcomes for **international students**, not just domestic graduates. |
+
+**Research and final comparisons must always show: fees → NMC regulatory pathway → medical knowledge and live practical training → safety → career opportunities.**
 
 These priorities are **not** an invitation to trade away a hard requirement. An over-budget course, demonstrably inadequate clinical training or a non-compliant registration pathway **cannot** become a recommendation because it scores highly elsewhere.
 
@@ -62,13 +64,13 @@ For each candidate record: academic years, separately required internship length
 
 Report **current-fee baseline** and a **conservative escalation/FX scenario**. Show every assumption. If full-program cost cannot be established or could breach ₹60 lakh, mark **UNKNOWN / AT RISK** and do not certify it as a budget-qualified final recommendation.
 
-### B. Knowledge and live clinical training — priority 2
-
-Collect the actual prospectus, year-by-year syllabus, dissection/cadaver teaching, pathology/labs, simulation and OSCE/skills training; teaching-hospital names and relationships; student access to real patients; clinical rotations by specialty; contact hours; supervised procedures; assessed patient encounters; class size and tutor ratio (where published); patient volume (if verifiable); internship location, duration and responsibilities; feedback from current students; and accreditation/inspection findings. Distinguish **observing**, **simulation** and **supervised hands-on patient care**. Do not infer that all students get procedures simply because a hospital has many beds.
-
-### C. NMC and destination-country legal pathway — priority 3
+### B. NMC and destination-country legal pathway — priority 2
 
 For each specific programme, build a requirement-by-requirement compliance matrix with primary documentary evidence. Verify degree-awarding institution, recognition by its domestic education/medical regulator, study duration, complete subject list, medium of instruction, all teaching locations, internship **dates and institution**, domestic registration rights **for foreign citizens/graduates**, examinations and country-specific conditions. Record **PASS / FAIL / NOT VERIFIED** for each requirement. If any essential requirement fails, **do not recommend for an India-practice pathway**.
+
+### C. Knowledge and live clinical training — priority 3
+
+Collect the actual prospectus, year-by-year syllabus, dissection/cadaver teaching, pathology/labs, simulation and OSCE/skills training; teaching-hospital names and relationships; student access to real patients; clinical rotations by specialty; contact hours; supervised procedures; assessed patient encounters; class size and tutor ratio (where published); patient volume (if verifiable); internship location, duration and responsibilities; feedback from current students; and accreditation/inspection findings. Distinguish **observing**, **simulation** and **supervised hands-on patient care**. Do not infer that all students get procedures simply because a hospital has many beds.
 
 ### D. Personal and campus safety — priority 4
 
@@ -83,12 +85,12 @@ Distinguish national citizens' privileges from international student eligibility
 Each candidate receives five statuses:
 
 - **BUDGET:** PASS / FAIL / NOT VERIFIED / AT RISK
-- **CLINICAL EDUCATION:** PASS / FAIL / NOT VERIFIED
 - **INDIA LICENSING PATHWAY:** PASS / FAIL / NOT VERIFIED (legal final authority belongs to regulators)
+- **CLINICAL EDUCATION:** PASS / FAIL / NOT VERIFIED
 - **SAFETY:** EVIDENCE-SUPPORTED / MATERIAL CONCERNS / NOT VERIFIED — **never “crime-free certified”**
 - **CAREER:** DOCUMENTED / LIMITED / NOT VERIFIED
 
-**Final recommended shortlist:** only universities with a defensible **budget PASS**, strong documented clinical teaching, and no identified NMC disqualifier **after all essential legal criteria have been verified**. Independently assessed safety and career outcomes then distinguish eligible options. If no candidate clears the gates, report **no verified recommendation** rather than invent a winner.
+**Final recommended shortlist:** only universities with a defensible **budget PASS**, a verified NMC/local-licensing pathway **after all essential legal criteria have been reviewed**, and strong documented clinical teaching. Independently assessed safety and career outcomes then distinguish eligible options. If no candidate clears the gates, report **no verified recommendation** rather than invent a winner.
 
 All comparative scores, if used, must disclose their components and source reliability. **Never let a weighted average conceal a failed hard gate.**
 
@@ -96,8 +98,8 @@ All comparative scores, if used, must disclose their components and source relia
 
 1. **Discover worldwide** — survey relevant countries across Europe, Asia, Central Asia, the Americas, Africa and Oceania; do not assume any country is safe, affordable or compliant.
 2. **Pre-screen fees and eligibility** — remove definite over-budget programmes; document excluded candidates with sources so work is not repeated.
-3. **Verify live clinical training** — inspect curriculum and placements, not only school rankings.
-4. **Audit NMC and local licensure** — collect university/regulator evidence and record unresolved questions.
+3. **Audit NMC and local licensure** — collect university/regulator evidence and record unresolved questions.
+4. **Verify live clinical training** — inspect curriculum and placements, not only school rankings.
 5. **Audit safety independently** — city, campus, hostel, clinics and student experience.
 6. **Audit career paths** — internship, residency, job, research and India return.
 7. **Peer-review and produce a shortlist** — include contrary evidence, disqualifiers, uncertainty, dated FX and audit trail.
@@ -126,9 +128,9 @@ Every candidate profile must include:
 |---|---|
 | Identity | Official university name, faculty, campus, city, country, exact course and entry year |
 | Financials | Year-by-year international fees; compulsory institutional charges; INR base and stressed totals; dated FX sources |
+| Recognition | Local accreditation/registration, NMC-rule-by-rule matrix, uncertainties and authoritative source links |
 | Education | Programme duration; syllabi; practical-hours evidence; named teaching hospitals; real-patient experiences |
 | Internship | Start/end dates, minimum duration, institution and clinical venues; foreign-student access; proof |
-| Recognition | Local accreditation/registration, NMC-rule-by-rule matrix, uncertainties and authoritative source links |
 | Safety | National/city/campus distinctions; incidents, hostel protections, independent evidence and limitations |
 | Careers | Licensure, local internship/residency rights, exam/visa barriers, graduate outcomes and research |
 | Decision | Five status fields, disqualifiers, confidence, date of last re-verification, next verification action |
