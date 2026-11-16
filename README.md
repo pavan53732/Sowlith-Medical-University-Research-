@@ -1,26 +1,27 @@
 # Sowlith — Global Medical University Research
 
-> **Purpose:** Identify the safest, academically strongest, clinically rigorous and professionally viable **MBBS or equivalent first medical-degree programme outside India** for an Indian student, while keeping **total university fees for the entire programme strictly below ₹60,00,000**.
+> **Purpose:** Identify clinically rigorous, safe and professionally viable **MBBS or equivalent first medical-degree programmes only in Russia, Australia and European countries** for an Indian student, while keeping **total university fees for the entire programme strictly below ₹60,00,000**.
 >
 > **Status (16 November 2026):** Research framework established. **No university is yet verified as meeting all requirements.** Any university mentioned in exploratory research is a *candidate*, never an approved recommendation without evidence.
 
-## The family's five priorities — in this exact order
+## Geographic Priority 0 + the family's five priorities — in this exact order
 
 | Priority | What matters | Rule |
 |---|---|---|
+| **0. Geographic scope** | **Russia, Australia and Europe only** | Eligible destinations: **Russia** (any campus within the Russian Federation); **Australia** (universities physically in Australia); and **European countries** (EU and non-EU, e.g. Bulgaria, Romania, Serbia, Italy). **Exclude every other destination**. A transcontinental location other than Russia with ambiguous European classification requires explicit family confirmation before inclusion. |
 | **1. Total university fees** | Complete medical degree, not annual tuition | **Hard maximum: below ₹60 lakh** for the entire course. Aim for **₹50 lakh or less** to leave financial headroom. |
 | **2. NMC regulatory pathway** | Ability of an Indian graduate to qualify for registration and medical practice in India | Establish compliance with **applicable National Medical Commission (NMC) rules**; never mislabel a foreign university “NMC-certified.” |
 | **3. Full medical knowledge + live practical training** | Rigorous theory, anatomy and laboratory teaching, early clinical contact, actual supervised patient care, procedural skills, rotations, simulation and meaningful internship | Verify actual curriculum, teaching hospitals and clinical experience. Rankings and marketing claims are insufficient. |
 | **4. Safety** | Campus, hostels, city and clinical-placement travel; low risk of violence, ragging, harassment and discrimination | Seek independent incident data and enforceable protection measures. **No university is guaranteed crime-free.** |
 | **5. Career opportunities** | Quality of internships, licensing, postgraduate/residency pathways, employability, research and international mobility | Verify actual eligibility and outcomes for **international students**, not just domestic graduates. |
 
-**Research and final comparisons must always show: fees → NMC regulatory pathway → medical knowledge and live practical training → safety → career opportunities.**
+**Apply Priority 0 first (geographic eligibility), then compare: fees → NMC regulatory pathway → medical knowledge and live practical training → safety → career opportunities.** Priority 0 is a **filter**, not a weighted quality score or a replacement for the other five requirements.
 
 These priorities are **not** an invitation to trade away a hard requirement. An over-budget course, demonstrably inadequate clinical training or a non-compliant registration pathway **cannot** become a recommendation because it scores highly elsewhere.
 
 ## Scope and fixed constraints
 
-- **Study destinations:** Research **globally, excluding India as the university destination**. India remains important for the student's possible future medical registration.
+- **Study destinations (Priority 0):** Research **only the Russian Federation, Australia and European countries**, including both EU and non-EU European nations. Russia qualifies regardless of whether an institution is in the European or Asian portion of Russia. Australia means **the country**, not all of Oceania (therefore exclude New Zealand). European countries are in scope whether or not they are EU members. Do not include other Asian, African or American destinations. Borderline transcontinental countries other than Russia require explicit family confirmation; do not quietly extend scope. India remains relevant **only** to future medical registration, not as an overseas university destination.
 - **Qualification:** First professional undergraduate medical degree (MBBS, MD-equivalent or other qualifying basic medical degree), **not** nursing, dentistry, pharmacy or postgraduate medicine.
 - **Budget:** The user means **university fees only**, across **all years of the entire medical programme**. Track tuition **plus compulsory university charges** (registration, lab, clinical teaching, examination, mandatory institutional charges, and mandatory university internship fees if any). Keep accommodation, meals, travel, visa, insurance and personal living costs in a **separate** estimate, never mixed into the university-fee ceiling.
 - **Strict threshold:** The complete projected university-fee total must be **less than ₹60,00,000**. A figure equal to or above the ceiling fails. Prefer comfortably under ₹50,00,000 when quality and compliance are comparable.
@@ -55,6 +56,12 @@ Official sources:
 **As rules and exam implementations may change, re-check official NMC/NBEMS notices at the moment of decision.** Never infer approval from WDOMS, WHO references, an agency's WFME recognition, an agent's blog or an admissions consultant's statement.
 
 ## Research and evidence requirements
+
+### Priority 0. Geographic admission gate — check before any university is evaluated
+
+Record the precise university **campus location and awarding institution**. A programme is in scope only if the actual medical teaching campus is in **Russia**, **Australia** or a **European country**. Exclude programmes delivered in other countries, even if a European/Australian university grants the degree. If a programme has substantial mandatory teaching or internship in an out-of-scope country, flag **GEOGRAPHY_NOT_VERIFIED** pending clarification; do not silently include it. A transcontinental country other than Russia that is not unambiguously within the European scope requires the family's explicit decision. Geography does **not** waive budget, NMC or clinical requirements.
+
+
 
 ### A. Entire-course fees — priority 1
 
@@ -96,8 +103,8 @@ All comparative scores, if used, must disclose their components and source relia
 
 ## Research workflow for humans and AI agents
 
-1. **Discover worldwide** — survey relevant countries across Europe, Asia, Central Asia, the Americas, Africa and Oceania; do not assume any country is safe, affordable or compliant.
-2. **Pre-screen fees and eligibility** — remove definite over-budget programmes; document excluded candidates with sources so work is not repeated.
+1. **Apply Priority 0: destination eligibility** — discover medical programmes **only in Russia, Australia and European countries (EU and non-EU)**; record the physical teaching campus and mandatory placement locations. Exclude other destinations before ranking.
+2. **Pre-screen fees and eligibility** — remove definite over-budget programmes even within the three permitted geographic categories; document excluded candidates with sources so work is not repeated.
 3. **Audit NMC and local licensure** — collect university/regulator evidence and record unresolved questions.
 4. **Verify live clinical training** — inspect curriculum and placements, not only school rankings.
 5. **Audit safety independently** — city, campus, hostel, clinics and student experience.
@@ -137,7 +144,7 @@ Every candidate profile must include:
 
 ## Current research state and important caveats
 
-**The repository has not yet established an eligible, safe, cost-compliant winner.** Previous conversational leads (for example Bulgaria, Serbia, Romania and Italy) are **leads for investigation only**. Earlier single-year tuition estimates must be independently rechecked; a low advertised tuition or an internship-sounding programme title is not enough.
+**The repository has not yet established an eligible, safe, cost-compliant winner.** Only Russia, Australia and European countries are eligible for investigation. Previous conversational leads (for example Bulgaria, Serbia, Romania and Italy) are **leads for investigation only**. Earlier single-year tuition estimates must be independently rechecked; a low advertised tuition or an internship-sounding programme title is not enough.
 
 **Unknown student details** include academic status/marks, NEET qualification, intended admission year, language capability and desired long-term practice country. Research can proceed without inventing these details; admission readiness remains **PENDING STUDENT DETAILS**.
 
