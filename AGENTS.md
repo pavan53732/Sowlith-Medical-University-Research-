@@ -11,8 +11,8 @@ This file is the **shared operating contract** for every AI research or coding a
 ## 1. Non-negotiable priority order
 
 1. **BUDGET FIRST — TOTAL UNIVERSITY FEES UNDER ₹60,00,000.** Entire programme, including compulsory university charges and any required institutional internship fee. The user would prefer total fees of **₹50,00,000 or lower**. Living expenses are separately reported, not counted in this tuition-only ceiling. **₹60,00,000 exactly fails**; do not stretch the limit.
-2. **COMPREHENSIVE MEDICAL KNOWLEDGE + LIVE PRACTICAL TRAINING.** Strong medical sciences and assessments, clinical skills, actual supervised patient encounters and procedures, substantial hospital rotations and meaningful internship. Simulation is complementary, not proof of hands-on clinical experience.
-3. **NMC/INDIA LICENSING ELIGIBILITY.** Investigate compliance with applicable Indian rules; NMC does **not** publish an endorsement list of foreign medical colleges. **Never claim “NMC-certified university.”**
+2. **NMC/INDIA LICENSING ELIGIBILITY.** Investigate compliance with applicable Indian rules; NMC does **not** publish an endorsement list of foreign medical colleges. **Never claim “NMC-certified university.”**
+3. **COMPREHENSIVE MEDICAL KNOWLEDGE + LIVE PRACTICAL TRAINING.** Strong medical sciences and assessments, clinical skills, actual supervised patient encounters and procedures, substantial hospital rotations and meaningful internship. Simulation is complementary, not proof of hands-on clinical experience.
 4. **LOW-RISK CAMPUS AND HOSTEL SAFETY.** Evaluate actual data on crime, ragging, harassment, safeguarding, dormitories, transport and hospital shifts. **Never guarantee “crime-free” or imply that absence of reports establishes zero incidents.**
 5. **CAREER OPPORTUNITIES.** Eligibility for internships, full registration, residency, work, visas, research, postgraduate study and return to India; **specifically for foreign citizens**.
 
@@ -27,8 +27,8 @@ Use these machine-comparable status labels for every researched exact programme:
 | Field | Allowed values |
 |---|---|
 | **budget_status** | PASS, FAIL, AT_RISK, NOT_VERIFIED |
-| **clinical_status** | PASS, FAIL, NOT_VERIFIED |
 | **nmc_pathway_status** | PASS_EVIDENCE_REVIEWED, FAIL, NOT_VERIFIED, NEEDS_REGULATOR_CLARIFICATION |
+| **clinical_status** | PASS, FAIL, NOT_VERIFIED |
 | **safety_status** | EVIDENCE_SUPPORTED, MATERIAL_CONCERNS, NOT_VERIFIED |
 | **career_status** | DOCUMENTED, LIMITED, NOT_VERIFIED |
 | **recommendation_status** | RECOMMEND_FOR_FAMILY_REVIEW, CONDITIONAL_RESEARCH_LEAD, EXCLUDE |
@@ -93,22 +93,7 @@ For each candidate show:
 
 If baseline already exceeds the threshold, record evidence and **exclude from the main shortlist immediately**. Still keep a concise excluded entry to prevent duplicate work.
 
-### 5.2 Clinical education verification — second
-
-Inspect at least the year-by-year programme and actual hospital teaching arrangements:
-- Gross anatomy/dissection, histology, physiology, biochemistry, pathology, pharmacology, microbiology, forensic medicine and key clinical subjects (compare against applicable NMC Schedule I);
-- Clinical-skills/OSCE labs, simulation centres, faculty supervision, assessments and remedial support;
-- **Early patient exposure**, student bedside teaching, history-taking and physical examinations;
-- Clinical rotation months/weeks/hours by specialty; required surgery, internal medicine, obstetrics/gynaecology, paediatrics, emergency medicine and community exposure;
-- Real patient/procedure logbooks, assessed competencies and supervisor sign-off where available;
-- Hospital names, valid affiliations, placement capacity, outpatient/inpatient experience and restrictions for foreigners;
-- **Internship: separately identify legal status, real duration, exact institution, timing, assessed clinical responsibilities and whether all international graduates can undertake it**;
-- Patient-language requirements (e.g., Bulgarian, Serbian, Romanian or Italian), how and when students become proficient; not merely “English-medium” advertising;
-- Student-to-patient and supervision metrics if independently documented.
-
-**Do not pretend ward shadowing, mannequins, elective visits or a few weeks of placements are equivalent to supervised clinical responsibility.** Mark evidence gaps rather than awarding a PASS by reputation.
-
-### 5.3 NMC/legal verification — third
+### 5.2 NMC/legal verification — second
 
 Use the latest applicable Indian FMG rules and build a line-by-line matrix. For new entrants, start with these **2021 baseline requirements**, then verify later changes:
 
@@ -125,6 +110,21 @@ Use the latest applicable Indian FMG rules and build a line-by-line matrix. For 
 Ask whether the foreign-country regulator *actually* grants a qualifying licence to **non-citizen medical graduates** and which requirements (language test, citizenship/residency, internship, visa, examination, employment, permits) govern it. A degree with no attainable route to registration may be an NMC deal-breaker. Require evidence from **both the university and authoritative law/regulator** for high-stakes claims.
 
 **Escalate any ambiguous internship structure to NEEDS_REGULATOR_CLARIFICATION**, never silently label compliant. No agent may guarantee NMC approval or examination outcomes.
+
+### 5.3 Clinical education verification — third
+
+Inspect at least the year-by-year programme and actual hospital teaching arrangements:
+- Gross anatomy/dissection, histology, physiology, biochemistry, pathology, pharmacology, microbiology, forensic medicine and key clinical subjects (compare against applicable NMC Schedule I);
+- Clinical-skills/OSCE labs, simulation centres, faculty supervision, assessments and remedial support;
+- **Early patient exposure**, student bedside teaching, history-taking and physical examinations;
+- Clinical rotation months/weeks/hours by specialty; required surgery, internal medicine, obstetrics/gynaecology, paediatrics, emergency medicine and community exposure;
+- Real patient/procedure logbooks, assessed competencies and supervisor sign-off where available;
+- Hospital names, valid affiliations, placement capacity, outpatient/inpatient experience and restrictions for foreigners;
+- **Internship: separately identify legal status, real duration, exact institution, timing, assessed clinical responsibilities and whether all international graduates can undertake it**;
+- Patient-language requirements (e.g., Bulgarian, Serbian, Romanian or Italian), how and when students become proficient; not merely “English-medium” advertising;
+- Student-to-patient and supervision metrics if independently documented.
+
+**Do not pretend ward shadowing, mannequins, elective visits or a few weeks of placements are equivalent to supervised clinical responsibility.** Mark evidence gaps rather than awarding a PASS by reputation.
 
 ### 5.4 Safety verification — fourth
 
@@ -155,11 +155,11 @@ Do not present a hospital employment advertisement, a school alumni success stor
 Create/update **one** report under **research/universities/**, naming it by distinctive university, campus and programme; never overwrite a different university profile. Use this structure:
 
 1. **Identity and verification timestamp**
-2. **One-paragraph decision:** budget/clinical/NMC/safety/career statuses and strongest caveat
+2. **One-paragraph decision:** budget/NMC/clinical/safety/career statuses and strongest caveat
 3. **Fee table:** all years in original currency, compulsory fees, base/stress INR totals, sources
-4. **Clinical curriculum and placements:** concrete hospital/procedure/supervision evidence
-5. **Internship audit:** duration, location, host institution, foreign-student legal access, open questions
-6. **NMC and local licensing matrix:** each condition, status, primary evidence, unresolved disputes
+4. **NMC and local licensing matrix:** each condition, status, primary evidence, unresolved disputes
+5. **Clinical curriculum and placements:** concrete hospital/procedure/supervision evidence
+6. **Internship audit:** duration, location, host institution, foreign-student legal access, open questions
 7. **Safety audit:** country / city / campus / hostel / hospital-shift travel, complaints and data quality
 8. **International graduate opportunities:** specialty pathway, local licensing, visa/work and actual outcomes
 9. **Admissions:** entry year, prerequisites, language, tests, deadline, fees, seat limits
@@ -174,7 +174,7 @@ Required comparison-record fields for **data/university-comparison.csv**:
 - tuition_original_currency, published_annual_fees, mandatory_university_fees
 - base_total_inr, stressed_total_inr, fx_rate_date, fee_guarantee_status
 - domestic_licence_foreign_graduate_eligibility, nmc_evidence_url
-- budget_status, clinical_status, nmc_pathway_status, safety_status, career_status
+- budget_status, nmc_pathway_status, clinical_status, safety_status, career_status
 - recommendation_status, key_risks, evidence_links, reviewer, last_reviewed
 
 Create missing directories on demand. **Do not fabricate entries to make a table look complete.** Prefer blank cells explicitly marked NOT_VERIFIED to guessed values.
@@ -187,8 +187,8 @@ All agents work from **one common contract**. Use role division when multiple ag
 |---|---|---|
 | **Discovery agent** | Search countries and first medical-degree programmes worldwide outside India | Candidate list with original sources; no ranking by marketing |
 | **Fee auditor** | Exact programme-year tuition, mandatory university fees, INR conversions, stress scenarios | Budget calculations and exclusion list |
-| **Medical education auditor** | Curriculum, real patient skills, teaching hospitals, internship delivery | Clinical evidence + gaps |
 | **Regulatory auditor** | NMC rule-by-rule pathway and local licensing of non-citizens | Requirement matrix, regulator citations, blockers |
+| **Medical education auditor** | Curriculum, real patient skills, teaching hospitals, internship delivery | Clinical evidence + gaps |
 | **Safety auditor** | Crime, hostel, harassment, transport, independent reporting | Safety report with data quality and red flags |
 | **Career auditor** | Internship/residency/job/visa/research prospects for foreign graduates | Documented paths and restrictions |
 | **Skeptical reviewer** | Challenge assumptions, source authenticity, date freshness and misleading marketing | PASS/FAIL concerns, evidence defects and requested fixes |
@@ -213,9 +213,9 @@ All agents work from **one common contract**. Use role division when multiple ag
 
 **Phase 2 — Fee gate:** Calculate complete-course university fees; reject clear FAILs immediately. Keep borderline AT_RISK cases only as conditional leads.
 
-**Phase 3 — Clinical gate:** Verify real supervised patient training and internship delivery; resolve whether international students receive the documented experience.
+**Phase 3 — Regulatory gate:** Verify FMGL and host-country local registration line by line using the effective rules; flag uncertain internship or language arrangements for official clarification.
 
-**Phase 4 — Regulatory gate:** Verify FMGL and host-country local registration line by line using the effective rules; flag uncertain internship or language arrangements for official clarification.
+**Phase 4 — Clinical gate:** Verify real supervised patient training and internship delivery; resolve whether international students receive the documented experience.
 
 **Phase 5 — Safety gate:** Evaluate independent incident and protection data. Never infer zero crime from absence of records.
 
@@ -230,11 +230,11 @@ All agents work from **one common contract**. Use role division when multiple ag
 - [ ] Exact degree, faculty, campus, entry year and international tuition category verified.
 - [ ] Actual full-course mandatory university fees computed, clearly **under ₹60 lakh**, with evidence and FX date.
 - [ ] Fee escalation/currency sensitivity and remaining budget headroom stated.
-- [ ] Full medical knowledge and **real supervised patient care** documented, not inferred from hospital size.
 - [ ] At least 54 qualifying study months and 12 internship months examined under the **latest applicable** NMC rules.
 - [ ] Internship location, institution, duration and eligibility for foreign students established.
 - [ ] English medium, required subjects, domestic medical licence eligibility for foreigners and Indian return route assessed.
 - [ ] Published school recognition checked; no inference of NMC endorsement from WDOMS/consultancies.
+- [ ] Full medical knowledge and **real supervised patient care** documented, not inferred from hospital size.
 - [ ] Campus, hostel and city safety reviewed with **independent and dated** data or clearly marked incomplete.
 - [ ] Career statements refer to international graduates and mention visa/registration restrictions.
 - [ ] Contradictions resolved or exposed; every important figure traceable to a source.
@@ -246,9 +246,9 @@ All agents work from **one common contract**. Use role division when multiple ag
 
 Always put the parent's decision criteria first. Present results in this order:
 
-**Full-course university fees → practical medical education → India/NMC pathway → safety → career.**
+**Full-course university fees → NMC/India regulatory pathway → complete medical education and live clinical training → safety → career.**
 
-For any table provide full degree name, country, INR base/stress totals, training evidence, NMC status and a concise risk/next action. Clearly distinguish **confirmed**, **provisional**, **unknown**, and **excluded**; provide direct authoritative sources. Never fill a “top ten” list with unsupported schools merely to reach a quota.
+For any table provide full degree name, country, INR base/stress totals, NMC regulatory pathway status, real clinical training evidence and a concise risk/next action. Clearly distinguish **confirmed**, **provisional**, **unknown**, and **excluded**; provide direct authoritative sources. Never fill a “top ten” list with unsupported schools merely to reach a quota.
 
 If a new legal advisory, fee schedule, campus safety incident or residency rule materially changes an assessment, flag the previous conclusion as **stale** and reassess before recommending admission or payment.
 
