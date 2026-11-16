@@ -13,7 +13,7 @@
 >
 > Sechenov has real strengths: it is an established Moscow public medical university, the **six-year General Medicine** programme is officially advertised in English/Russian, and the university documents significant teaching-hospital and simulation infrastructure. However, **a separate NMC-qualifying 12-month foreign internship, international graduate eligibility for Russian medical licensure, and actual student-level hands-on clinical opportunities remain insufficiently verified**. Current security advisories about Russia create additional serious concerns. [S01], [S04], [S05], [S07], [S08], [S10], [S15], [S16]
 >
-> **Decision:** \`EXCLUDE\` as a self-funded recommendation under today's family rules. Keep this file for complete, transparent reference. Reconsider only if the family *explicitly* changes its cap or obtains a **genuine, individually awarded, documented tuition waiver/government scholarship** that reduces the entire compulsory university-fee obligation below ₹60 lakh **and** the NMC, clinical and safety gates are independently cleared. Scholarships must never be assumed.
+> **Decision:** `EXCLUDE` as a self-funded recommendation under today's family rules. Keep this file for complete, transparent reference. Reconsider only if the family *explicitly* changes its cap or obtains a **genuine, individually awarded, documented tuition waiver/government scholarship** that reduces the entire compulsory university-fee obligation below ₹60 lakh **and** the NMC, clinical and safety gates are independently cleared. Scholarships must never be assumed.
 
 ---
 
@@ -30,7 +30,7 @@
 | **4 — Safety** | Independently established low risk at campus, dormitory, city, commute and country levels | **MATERIAL_CONCERNS** at country/travel level; campus-specific crime data **NOT_VERIFIED**. Cannot label crime-free. |
 | **5 — Careers** | Local accreditation/licence, internship/residency rights, research, work and India-return possibilities for non-Russians | **LIMITED / NOT_VERIFIED** — postgraduate opportunities advertised; international-graduate access and results unproven. |
 
-**Status keys from repository \`AGENTS.md\`:** \`geography_status=IN_SCOPE\`; \`budget_status=FAIL\`; \`clinical_status=NOT_VERIFIED\`; \`nmc_pathway_status=NEEDS_REGULATOR_CLARIFICATION\`; \`safety_status=MATERIAL_CONCERNS\`; \`career_status=NOT_VERIFIED\`; \`recommendation_status=EXCLUDE\`.
+**Status keys from repository `AGENTS.md`:** `geography_status=IN_SCOPE`; `budget_status=FAIL`; `clinical_status=NOT_VERIFIED`; `nmc_pathway_status=NEEDS_REGULATOR_CLARIFICATION`; `safety_status=MATERIAL_CONCERNS`; `career_status=NOT_VERIFIED`; `recommendation_status=EXCLUDE`.
 
 **Important distinction:** This is **not** a claim that Sechenov is a low-quality university, unrecognised institution or that all graduates fail licensing. It is a conclusion about **fit against this family's hard constraints**.
 
@@ -107,7 +107,7 @@ The official university admissions FAQ says that **the university itself does no
 
 Only an **officially awarded scholarship or quota that identifies this exact applicant, institution, course, entry year and guaranteed multi-year fee coverage** can justify recalculating the family's personal net liability. A consultant promising an “NMC-approved budget Sechenov seat” without a genuine university award and itemised contract should be treated as **unverified**.
 
-**Priority 1 decision: \`FAIL\`. This alone excludes Sechenov Moscow for the current self-funded shortlist.**
+**Priority 1 decision: `FAIL`. This alone excludes Sechenov Moscow for the current self-funded shortlist.**
 
 ---
 
@@ -154,7 +154,7 @@ The **Foreign Medical Graduate Licentiate Regulations (FMGL), 2021**, are a core
 4. Formal proof of eligibility to complete the Russian **primary accreditation examination**, registration/licence and any Russian-language requirement;
 5. Where ambiguous, **written clarification from NMC / relevant State Medical Council / Russian competent regulator**, recognising that the regulator makes the authoritative decision.
 
-**Priority 2 decision: \`NEEDS_REGULATOR_CLARIFICATION\`.** The current sources are **insufficient to certify future eligibility for Indian medical registration**.
+**Priority 2 decision: `NEEDS_REGULATOR_CLARIFICATION`.** The current sources are **insufficient to certify future eligibility for Indian medical registration**.
 
 ---
 
@@ -196,7 +196,7 @@ The university's own portals cite:
 - The numbers above **are not automatically inconsistent**: they may refer to different dates, definitions of hospitals, clinics, campus units and patient-counting methods. They **must not be added together or treated as one current audited statistic**.
 - Current portal reports **4 simulation-centre branches**, **400 students in practical training simultaneously**, and **1,000+ practising doctors trained annually**. These are institution-level, university-published assertions, **not evidence that a particular international student independently performs any procedure**. [S10]
 
-**Clinical access that must be verified before awarding \`clinical_status=PASS\`:**
+**Clinical access that must be verified before awarding `clinical_status=PASS`:**
 - Named clinical sites **actually assigned** to the English-medium General Medicine class;
 - Start year for real patient history-taking and examination;
 - Minimum **supervised patient encounters** and practical hours **per student**;
@@ -243,7 +243,7 @@ A family serious about actual bedside medicine must confirm:
 | Dedicated NMC-qualifying 12-month internship | No adequate programme-specific proof obtained | **NOT VERIFIED** |
 | Long-term objective graduate clinical outcomes | No attributable international cohort audit found | **NOT VERIFIED** |
 
-**Priority 3 decision:** considerable **academic and hospital infrastructure**, but **\`clinical_status=NOT_VERIFIED\`** until practical teaching and internship evidence is produced and independently assessed.
+**Priority 3 decision:** considerable **academic and hospital infrastructure**, but **`clinical_status=NOT_VERIFIED`** until practical teaching and internship evidence is produced and independently assessed.
 
 ---
 
@@ -288,7 +288,7 @@ The university guide describes notification requirements for prolonged absence a
 
 Sechenov's guide gives Russia's emergency numbers **112** (all services), **102** (police), **103** (ambulance) and **101** (fire). Students should also know the nearest hospital, international office, local police and **Embassy of India in Moscow**. [S23]
 
-**Priority 4 decision:** **\`safety_status=MATERIAL_CONCERNS\`**, with **campus-/hostel-level incident statistics NOT VERIFIED**. Do not promise a crime-free environment.
+**Priority 4 decision:** **`safety_status=MATERIAL_CONCERNS`**, with **campus-/hostel-level incident statistics NOT VERIFIED**. Do not promise a crime-free environment.
 
 ---
 
@@ -333,7 +333,7 @@ Request directly:
 
 **No verified Sechenov-specific FMGE pass rate was established in this research. Do not invent one, repeat an agency's promotional percentage or substitute a Russia-wide average.**
 
-**Priority 5 decision: \`career_status=NOT_VERIFIED\`** for the family's desired end-to-end international-graduate pathway.
+**Priority 5 decision: `career_status=NOT_VERIFIED`** for the family's desired end-to-end international-graduate pathway.
 
 ---
 
@@ -517,26 +517,26 @@ Before any payment, obtain a written university-generated invoice and separately
 
 | Field | Value |
 |---|---|
-| \`university\` | I.M. Sechenov First Moscow State Medical University |
-| \`faculty\` | N.V. Sklifosovsky Institute of Clinical Medicine |
-| \`programme\` | 31.05.01 General Medicine (six-year Specialist / Medical Doctor) |
-| \`campus\` | Moscow, Russian Federation |
-| \`entry_year_evidence\` | 2026/27; 2027/28 NOT VERIFIED |
-| \`geography_status\` | **IN_SCOPE** |
-| \`tuition_original_currency\` | RUB |
-| \`published_yearly_fees\` | 1,300,000; 1,352,000; 1,407,000; 1,464,000; 1,523,000; 1,584,000 |
-| \`published_total_rub\` | **8,630,000** |
-| \`fx_rate_date\` | 16 November 2026 |
-| \`fx_rate_inr_per_rub\` | **1.141514** |
-| \`base_total_inr\` | **9,851,266** (tuition baseline; excludes mandatory extras) |
-| \`family_budget_ceiling_inr\` | **6,000,000** (strictly less required) |
-| \`budget_status\` | **FAIL** |
-| \`nmc_pathway_status\` | **NEEDS_REGULATOR_CLARIFICATION** |
-| \`clinical_status\` | **NOT_VERIFIED** |
-| \`safety_status\` | **MATERIAL_CONCERNS** |
-| \`career_status\` | **NOT_VERIFIED** |
-| \`recommendation_status\` | **EXCLUDE** |
-| \`last_reviewed\` | **2026-11-16** |
+| `university` | I.M. Sechenov First Moscow State Medical University |
+| `faculty` | N.V. Sklifosovsky Institute of Clinical Medicine |
+| `programme` | 31.05.01 General Medicine (six-year Specialist / Medical Doctor) |
+| `campus` | Moscow, Russian Federation |
+| `entry_year_evidence` | 2026/27; 2027/28 NOT VERIFIED |
+| `geography_status` | **IN_SCOPE** |
+| `tuition_original_currency` | RUB |
+| `published_yearly_fees` | 1,300,000; 1,352,000; 1,407,000; 1,464,000; 1,523,000; 1,584,000 |
+| `published_total_rub` | **8,630,000** |
+| `fx_rate_date` | 16 November 2026 |
+| `fx_rate_inr_per_rub` | **1.141514** |
+| `base_total_inr` | **9,851,266** (tuition baseline; excludes mandatory extras) |
+| `family_budget_ceiling_inr` | **6,000,000** (strictly less required) |
+| `budget_status` | **FAIL** |
+| `nmc_pathway_status` | **NEEDS_REGULATOR_CLARIFICATION** |
+| `clinical_status` | **NOT_VERIFIED** |
+| `safety_status` | **MATERIAL_CONCERNS** |
+| `career_status` | **NOT_VERIFIED** |
+| `recommendation_status` | **EXCLUDE** |
+| `last_reviewed` | **2026-11-16** |
 
 ### Next actions
 
@@ -593,5 +593,5 @@ All the webpages below were reviewed or inspected through public source retrieva
 ---
 
 **Report prepared for the Sowlith Medical University Research repository.**  
-**Researcher conclusion dated 16 November 2026: \`EXCLUDE\` from the family's below-₹60-lakh paid university shortlist.**  
+**Researcher conclusion dated 16 November 2026: `EXCLUDE` from the family's below-₹60-lakh paid university shortlist.**  
 **Next source review required:** Before any 2027/28 application, scholarship claim, offer acceptance, visa application or tuition payment.
