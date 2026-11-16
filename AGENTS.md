@@ -4,19 +4,20 @@
 
 This file is the **shared operating contract** for every AI research or coding agent that works in the Sowlith Medical University Research repository: ChatGPT, Codex, Claude, Gemini, Hermes, Kilo, OpenCode and any other assistant. **Start by reading README.md in full.**
 
-**Mission:** Find defensible, genuinely affordable, clinically excellent **first medical degrees outside India** for an Indian student. Do not act as an admissions broker. Evidence and official rules outrank model confidence, university prestige, agent consensus and marketing.
+**Mission:** Find defensible, genuinely affordable, clinically excellent **first medical degrees only in Russia, Australia and European countries** for an Indian student. Do not act as an admissions broker. Evidence and official rules outrank model confidence, university prestige, agent consensus and marketing.
 
 **Current project baseline:** 16 November 2026. **No programme has yet been verified against all gates.** Do not inherit previous-chat university prices, safety statements or “NMC approved” claims as facts. Recheck current sources.
 
 ## 1. Non-negotiable priority order
 
+0. **GEOGRAPHIC SCOPE FIRST — RUSSIA, AUSTRALIA, EUROPE ONLY.** Treat this as a binary destination **eligibility filter**, not a quality score. Russia means any medical campus inside the **Russian Federation** (including its Asian region); Australia means medical campuses inside **Australia** (not New Zealand or all of Oceania); Europe includes **EU and non-EU European countries**. Outside these destinations, **EXCLUDE**. For transcontinental countries other than Russia with ambiguous European classification, **ask the family for explicit confirmation before inclusion**. Verify the actual teaching campus, not just the university's branding. Do not silently broaden the search.
 1. **BUDGET FIRST — TOTAL UNIVERSITY FEES UNDER ₹60,00,000.** Entire programme, including compulsory university charges and any required institutional internship fee. The user would prefer total fees of **₹50,00,000 or lower**. Living expenses are separately reported, not counted in this tuition-only ceiling. **₹60,00,000 exactly fails**; do not stretch the limit.
 2. **NMC/INDIA LICENSING ELIGIBILITY.** Investigate compliance with applicable Indian rules; NMC does **not** publish an endorsement list of foreign medical colleges. **Never claim “NMC-certified university.”**
 3. **COMPREHENSIVE MEDICAL KNOWLEDGE + LIVE PRACTICAL TRAINING.** Strong medical sciences and assessments, clinical skills, actual supervised patient encounters and procedures, substantial hospital rotations and meaningful internship. Simulation is complementary, not proof of hands-on clinical experience.
 4. **LOW-RISK CAMPUS AND HOSTEL SAFETY.** Evaluate actual data on crime, ragging, harassment, safeguarding, dormitories, transport and hospital shifts. **Never guarantee “crime-free” or imply that absence of reports establishes zero incidents.**
 5. **CAREER OPPORTUNITIES.** Eligibility for internships, full registration, residency, work, visas, research, postgraduate study and return to India; **specifically for foreign citizens**.
 
-**Study location restriction:** Universities must be **outside India**. India may appear only as the student's nationality, examinations, licensing jurisdiction or eventual practice destination. Do not recommend Indian colleges.
+**Study location restriction:** University medical education must be based **only in Russia, Australia or Europe**. India may appear only as the student's nationality, examinations, licensing jurisdiction or eventual practice destination. Exclude colleges in India, New Zealand, other Asian countries, Africa and the Americas. If compulsory clinical teaching or internship takes place outside the approved geography, mark the geographical fit **NOT_VERIFIED** and escalate before recommending.
 
 **Do not substitute weighted marketing scores for any hard gate.** The first three priorities demand especially rigorous verification, and a legal disqualifier cannot be offset by good safety or career ratings.
 
@@ -26,6 +27,7 @@ Use these machine-comparable status labels for every researched exact programme:
 
 | Field | Allowed values |
 |---|---|
+| **geography_status** | IN_SCOPE, OUT_OF_SCOPE, NOT_VERIFIED |
 | **budget_status** | PASS, FAIL, AT_RISK, NOT_VERIFIED |
 | **nmc_pathway_status** | PASS_EVIDENCE_REVIEWED, FAIL, NOT_VERIFIED, NEEDS_REGULATOR_CLARIFICATION |
 | **clinical_status** | PASS, FAIL, NOT_VERIFIED |
@@ -35,7 +37,7 @@ Use these machine-comparable status labels for every researched exact programme:
 
 **PASS_EVIDENCE_REVIEWED is not NMC approval, a legal opinion or a guaranteed licence.** Regulators make binding determinations. Use it only when the required programme-specific official documentation exists, every applicable rule has been checked and no known contradiction remains. An admissions agent's assertion or WDOMS listing is never sufficient.
 
-**Recommendation gate:** A final family-review recommendation requires documented complete-course **budget PASS** (strictly below limit), **clinical PASS**, **nmc_pathway_status = PASS_EVIDENCE_REVIEWED**, and a safety review without unresolved material red flags. It must still disclose all risks. Otherwise report **CONDITIONAL_RESEARCH_LEAD** or **EXCLUDE**, with exact reasons. If none qualifies, say **no verified candidates yet**.
+**Recommendation gate:** A final family-review recommendation requires **geography_status = IN_SCOPE** and documented complete-course **budget PASS** (strictly below limit), **clinical PASS**, **nmc_pathway_status = PASS_EVIDENCE_REVIEWED**, and a safety review without unresolved material red flags. It must still disclose all risks. Otherwise report **CONDITIONAL_RESEARCH_LEAD** or **EXCLUDE**, with exact reasons. If none qualifies, say **no verified candidates yet**.
 
 ## 3. Research one exact programme, not an ambiguous university brand
 
@@ -77,7 +79,11 @@ Before applying legal rules, establish which ones govern the **student's anticip
 
 ## 5. Research procedures by priority
 
-### 5.1 Financial verification — must be first
+### 5.0 Geographic eligibility verification — absolute first gate
+
+Accept only **Russia**, **Australia**, and **European countries** (EU or non-EU). Russia is permitted throughout its territory; Australia is permitted as a country, not as a proxy for Oceania; exclude New Zealand. Use the exact campus and mandatory clinical education/internship location rather than the name of a parent university. For transcontinental countries other than Russia with disputed classification, ask for explicit family permission. Document `IN_SCOPE`, `OUT_OF_SCOPE` or `NOT_VERIFIED`; do not spend research resources scoring an `OUT_OF_SCOPE` institution. Australia and Russia are **not exempt** from the strict ₹60 lakh total fee limit or India/NMC requirements.
+
+### 5.1 Financial verification — first among the five substantive priorities
 
 Collect all six (or actual total number of) years individually, with original currency, international tuition category, compulsory university registration/lab/clinical/exam/administrative fees and any university-required internship charges. Include one-time university fees and fees for a distinct preclinical/foundation year if compulsory. Record university-published scholarships only if eligibility is demonstrated; **do not subtract speculative awards**.
 
@@ -154,7 +160,7 @@ Do not present a hospital employment advertisement, a school alumni success stor
 
 Create/update **one** report under **research/universities/**, naming it by distinctive university, campus and programme; never overwrite a different university profile. Use this structure:
 
-1. **Identity and verification timestamp**
+1. **Identity, exact campus/country, geography gate status and verification timestamp**
 2. **One-paragraph decision:** budget/NMC/clinical/safety/career statuses and strongest caveat
 3. **Fee table:** all years in original currency, compulsory fees, base/stress INR totals, sources
 4. **NMC and local licensing matrix:** each condition, status, primary evidence, unresolved disputes
@@ -168,7 +174,7 @@ Create/update **one** report under **research/universities/**, naming it by dist
 12. **Decision: RECOMMEND_FOR_FAMILY_REVIEW, CONDITIONAL_RESEARCH_LEAD or EXCLUDE**
 
 Required comparison-record fields for **data/university-comparison.csv**:
-- university, faculty, programme, campus, country, entry_year, source_checked_date
+- university, faculty, programme, campus, country, geography_status, entry_year, source_checked_date
 - official_programme_url, degree_name, teaching_language, clinical_language_requirement
 - duration_academic_months, internship_months, internship_institution, teaching_hospitals
 - tuition_original_currency, published_annual_fees, mandatory_university_fees
@@ -185,7 +191,7 @@ All agents work from **one common contract**. Use role division when multiple ag
 
 | Role | Primary work | Required handoff |
 |---|---|---|
-| **Discovery agent** | Search countries and first medical-degree programmes worldwide outside India | Candidate list with original sources; no ranking by marketing |
+| **Discovery agent** | Search first medical-degree programmes only in Russia, Australia and European countries | Campus-specific candidate list with sources and geography eligibility; no marketing rankings |
 | **Fee auditor** | Exact programme-year tuition, mandatory university fees, INR conversions, stress scenarios | Budget calculations and exclusion list |
 | **Regulatory auditor** | NMC rule-by-rule pathway and local licensing of non-citizens | Requirement matrix, regulator citations, blockers |
 | **Medical education auditor** | Curriculum, real patient skills, teaching hospitals, internship delivery | Clinical evidence + gaps |
@@ -209,9 +215,9 @@ All agents work from **one common contract**. Use role division when multiple ag
 
 **Phase 0 — Baseline:** Read root docs, inspect existing candidate research, identify stale claims, and determine what remains unverified.
 
-**Phase 1 — Broad discovery:** Search globally, including Western/Central/Eastern Europe, Asia, Central Asia, Africa, Oceania and the Americas. Do not assume continent-level suitability; exclude over-budget cases based on evidence.
+**Phase 1 — Geographic discovery (Priority 0):** Search **only Russia, Australia and European countries** (EU and non-EU), verify actual campus/placement location and reject out-of-scope countries. Do not assume any eligible destination is safe, affordable, clinically strong or NMC-compliant.
 
-**Phase 2 — Fee gate:** Calculate complete-course university fees; reject clear FAILs immediately. Keep borderline AT_RISK cases only as conditional leads.
+**Phase 2 — Fee gate:** For **in-scope programmes only**, calculate complete-course university fees; reject clear FAILs immediately. Keep borderline AT_RISK cases only as conditional leads.
 
 **Phase 3 — Regulatory gate:** Verify FMGL and host-country local registration line by line using the effective rules; flag uncertain internship or language arrangements for official clarification.
 
@@ -227,6 +233,7 @@ All agents work from **one common contract**. Use role division when multiple ag
 
 ### Acceptance checklist before declaring any candidate ready
 
+- [ ] **Priority 0:** Exact medical campus/mandatory placements within Russia, Australia or an eligible European country verified; no out-of-scope destination included.
 - [ ] Exact degree, faculty, campus, entry year and international tuition category verified.
 - [ ] Actual full-course mandatory university fees computed, clearly **under ₹60 lakh**, with evidence and FX date.
 - [ ] Fee escalation/currency sensitivity and remaining budget headroom stated.
@@ -244,9 +251,9 @@ All agents work from **one common contract**. Use role division when multiple ag
 
 ## 9. Final reporting style
 
-Always put the parent's decision criteria first. Present results in this order:
+Always apply the family's geographic scope before the five substantive priorities. Present results in this order:
 
-**Full-course university fees → NMC/India regulatory pathway → complete medical education and live clinical training → safety → career.**
+**Priority 0: Russia, Australia or Europe only → full-course university fees → NMC/India regulatory pathway → complete medical education and live clinical training → safety → career.**
 
 For any table provide full degree name, country, INR base/stress totals, NMC regulatory pathway status, real clinical training evidence and a concise risk/next action. Clearly distinguish **confirmed**, **provisional**, **unknown**, and **excluded**; provide direct authoritative sources. Never fill a “top ten” list with unsupported schools merely to reach a quota.
 
