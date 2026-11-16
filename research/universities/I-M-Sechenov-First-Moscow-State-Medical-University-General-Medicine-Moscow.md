@@ -9,9 +9,9 @@
 
 > ## Bottom line — **EXCLUDE under the family's strict paid-tuition budget**
 >
-> The university publishes **₽8,630,000** for six years of the international **General Medicine** programme at the relevant fee level. Using a published **16 November 2026 RUB/INR reference rate of ₹1.141514 per ₽1**, the tuition baseline is **₹98,51,266 (₹98.51 lakh)**, **₹38.51 lakh ABOVE** the family's absolute **below-₹60-lakh** course-wide ceiling. This is **tuition only**, before housing, insurance, payments/FX charges, admission-related fees, travel, or costs of any extra internship. **Budget status: FAIL.** [S02], [S03]
+> The university publishes **₽8,630,000** for six years of the international **General Medicine** programme at the relevant fee level. Using a published **16 November 2026 RUB/INR reference rate of ₹1.141514 per ₽1**, the tuition baseline is **₹98,51,266 (₹98.51 lakh)**, **₹38.51 lakh ABOVE** the family's absolute **below-₹60-lakh** course-wide ceiling. This is **tuition only**, before housing, insurance, payments/FX charges, admission-related fees, travel, or costs of any extra internship. **Budget status: FAIL.** [S02](https://priem.sechenov.ru/international/), [S03](https://upstox.com/currency-converter/rub-to-inr/)
 >
-> Sechenov has real strengths: it is an established Moscow public medical university, the **six-year General Medicine** programme is officially advertised in English/Russian, and the university documents significant teaching-hospital and simulation infrastructure. However, **a separate NMC-qualifying 12-month foreign internship, international graduate eligibility for Russian medical licensure, and actual student-level hands-on clinical opportunities remain insufficiently verified**. Current security advisories about Russia create additional serious concerns. [S01], [S04], [S05], [S07], [S08], [S10], [S15], [S16]
+> Sechenov has real strengths: it is an established Moscow public medical university, the **six-year General Medicine** programme is officially advertised in English/Russian, and the university documents significant teaching-hospital and simulation infrastructure. However, **a separate NMC-qualifying 12-month foreign internship, international graduate eligibility for Russian medical licensure, and actual student-level hands-on clinical opportunities remain insufficiently verified**. Current security advisories about Russia create additional serious concerns. [S01](https://international.sechenov.ru/directions/general-medicine/en), [S04](https://www.sechenov.ru/eng/about/), [S05](https://www.sechenov.ru/eng/education-study/undergraduate/general-medicine/), [S07](https://indianembassy-moscow.gov.in/pdf/Information%20for%20prospective%20Indian%20medical%20students-new.pdf), [S08](https://www.sechenov.ru/univers/structure/institute/institut-klinicheskoy-meditsiny/pervichnaya-akkreditatsiya-vypusknikov-31-05-01-lechebnoe-delo/), [S10](https://welcome.sechenov.ru/en/about-the-university/), [S15](https://www.gov.uk/foreign-travel-advice/russia), [S16](https://travel.state.gov/en/international-travel/travel-advisories/russia.html)
 >
 > **Decision:** `EXCLUDE` as a self-funded recommendation under today's family rules. Keep this file for complete, transparent reference. Reconsider only if the family *explicitly* changes its cap or obtains a **genuine, individually awarded, documented tuition waiver/government scholarship** that reduces the entire compulsory university-fee obligation below ₹60 lakh **and** the NMC, clinical and safety gates are independently cleared. Scholarships must never be assumed.
 
@@ -40,22 +40,22 @@
 |---|---|
 | Full name | I.M. Sechenov First Moscow State Medical University, Ministry of Health of the Russian Federation |
 | Common name | **Sechenov University / First Moscow State Medical University** |
-| Foundational history | Traces its origin to the medical faculty of Moscow University, **1758** [S04] |
-| Institution type | Russian **public** medical university in the World Directory of Medical Schools (WDOMS) [S11] |
+| Foundational history | Traces its origin to the medical faculty of Moscow University, **1758** [S04](https://www.sechenov.ru/eng/about/) |
+| Institution type | Russian **public** medical university in the World Directory of Medical Schools (WDOMS) [S11](https://search.wdoms.org/home/SchoolDetail/F0001018) |
 | Degree programme | **31.05.01 General Medicine / Лечебное дело** |
 | Award level | Russian **Specialist degree**, qualification **Medical Doctor / Врач-лечебник** |
 | Teaching mode | **Full-time**; English and Russian teaching pathways are advertised |
-| Official duration | **6 academic years, 12 semesters, 360 Russian credit units** [S01], [S05] |
-| Medical faculty | **N.V. Sklifosovsky Institute of Clinical Medicine** (main Moscow route) [S04] |
-| Official central address | **8/2 Trubetskaya Street, Moscow 119991, Russian Federation** [S11], [S18] |
-| Moscow admissions office | **Trubetskaya Street 8, Building 2, Room 219A**, Moscow; check opening times before travel [S17] |
+| Official duration | **6 academic years, 12 semesters, 360 Russian credit units** [S01](https://international.sechenov.ru/directions/general-medicine/en), [S05](https://www.sechenov.ru/eng/education-study/undergraduate/general-medicine/) |
+| Medical faculty | **N.V. Sklifosovsky Institute of Clinical Medicine** (main Moscow route) [S04](https://www.sechenov.ru/eng/about/) |
+| Official central address | **8/2 Trubetskaya Street, Moscow 119991, Russian Federation** [S11](https://search.wdoms.org/home/SchoolDetail/F0001018), [S18](https://www.sechenov.ru/eng/students/support-/) |
+| Moscow admissions office | **Trubetskaya Street 8, Building 2, Room 219A**, Moscow; check opening times before travel [S17](https://www.sechenov.ru/eng/education-study/admission/) |
 | Official main website | https://www.sechenov.ru/ |
 | International portal | https://international.sechenov.ru/ |
 | Official English admissions portal | https://priem.sechenov.ru/en/international/ |
 | Programme page | https://international.sechenov.ru/directions/general-medicine/en |
 | WDOMS listing | https://search.wdoms.org/home/SchoolDetail/F0001018 (**listing is NOT NMC endorsement**) |
 
-**Branch-campus trap:** The international-admissions portal also displays **Baku Branch** and other campuses with their own place counts/fees. Baku is **in Azerbaijan**, outside the family's currently authorised destination list, and is **NOT** the same as studying full-time at the Moscow N.V. Sklifosovsky Institute. Bryansk is a separate Russian branch with different fees, teaching infrastructure and accreditation arrangements. **Never copy Baku/Bryansk tuition, curriculum, internship or teaching-hospital facts into a Moscow profile.** The Moscow listing separately identifies N.V. Sklifosovsky Institute of Clinical Medicine and a **foreign-applicant competition of 800 tuition-based General Medicine places** (2026 listing). This is **capacity/competition information, not a claim about an individual student's seat**. [S02]
+**Branch-campus trap:** The international-admissions portal also displays **Baku Branch** and other campuses with their own place counts/fees. Baku is **in Azerbaijan**, outside the family's currently authorised destination list, and is **NOT** the same as studying full-time at the Moscow N.V. Sklifosovsky Institute. Bryansk is a separate Russian branch with different fees, teaching infrastructure and accreditation arrangements. **Never copy Baku/Bryansk tuition, curriculum, internship or teaching-hospital facts into a Moscow profile.** The Moscow listing separately identifies N.V. Sklifosovsky Institute of Clinical Medicine and a **foreign-applicant competition of 800 tuition-based General Medicine places** (2026 listing). This is **capacity/competition information, not a claim about an individual student's seat**. [S02](https://priem.sechenov.ru/international/)
 
 ---
 
@@ -63,9 +63,9 @@
 
 ### 1.1 Officially listed 2026/27 fee schedule — foreign General Medicine applicants
 
-The official international admission pages publish an **international first-year General Medicine fee of ₽1,300,000**, and the foreign-applicant portal lists the year-by-year six-year schedule with a **₽8,630,000 full-course total**. These figures refer to the main **fee level of ₽1.3m in year one**; get a written offer specifying the campus, English track and annual liability rather than assuming all branch programmes have the same schedule. [S01], [S02]
+The official international admission pages publish an **international first-year General Medicine fee of ₽1,300,000**, and the foreign-applicant portal lists the year-by-year six-year schedule with a **₽8,630,000 full-course total**. These figures refer to the main **fee level of ₽1.3m in year one**; get a written offer specifying the campus, English track and annual liability rather than assuming all branch programmes have the same schedule. [S01](https://international.sechenov.ru/directions/general-medicine/en), [S02](https://priem.sechenov.ru/international/)
 
-**Currency conversion:** **₽1 = ₹1.141514**, published by Upstox for **16 November 2026, 12:30 PM IST**. Mid-market reference only; a family's actual bank/fee-transfer rate can differ. [S03]
+**Currency conversion:** **₽1 = ₹1.141514**, published by Upstox for **16 November 2026, 12:30 PM IST**. Mid-market reference only; a family's actual bank/fee-transfer rate can differ. [S03](https://upstox.com/currency-converter/rub-to-inr/)
 
 | Academic year | Fee (RUB, official listing) | INR equivalent at dated reference rate |
 |---|---:|---:|
@@ -95,15 +95,15 @@ Even the illustrative lower exchange rate above fails the family's limit. Extra 
 
 ### 1.3 Payment arrangements and additional charges
 
-Official university guidance states that tuition can be paid by **semester, academic year or for the full study period**, as permitted by the agreement; standard recurring payment dates are **25 August** (autumn) and **25 January** (spring), while **first-year deadlines can differ**. Delayed payment can attract contractual penalties and, ultimately, expulsion. Students should use only bank details shown in the official agreement/personal account. [S19]
+Official university guidance states that tuition can be paid by **semester, academic year or for the full study period**, as permitted by the agreement; standard recurring payment dates are **25 August** (autumn) and **25 January** (spring), while **first-year deadlines can differ**. Delayed payment can attract contractual penalties and, ultimately, expulsion. Students should use only bank details shown in the official agreement/personal account. [S19](https://welcome.sechenov.ru/en/education/payment-obligations/)
 
-The university also advertises a payment service for foreign Visa/Mastercard cards with an **approximately 11.57% service fee**, subject to country-of-issuance restrictions. This is **a payment method, not an unavoidable programme charge**. At the same 2026 rate, if an 11.57% markup were incurred on all fees, the hypothetical total would rise by roughly **₹11.4 lakh**. Verify whether a lawful, cheaper transfer route is actually available from the family's bank before paying. [S20]
+The university also advertises a payment service for foreign Visa/Mastercard cards with an **approximately 11.57% service fee**, subject to country-of-issuance restrictions. This is **a payment method, not an unavoidable programme charge**. At the same 2026 rate, if an 11.57% markup were incurred on all fees, the hypothetical total would rise by roughly **₹11.4 lakh**. Verify whether a lawful, cheaper transfer route is actually available from the family's bank before paying. [S20](https://welcome.sechenov.ru/en/education/tuition-fees-for-international-students/)
 
 **NOT VERIFIED:** Whether the education contract caps future tuition, permits partial refunds, charges for resits/repeats, requires programme-specific skills/hospital fees, or separately charges an extra licensure-qualifying internship. These are **not zero** simply because no figure has been published in the pages inspected.
 
 ### 1.4 Scholarships — possible but NOT part of the current budget
 
-The official university admissions FAQ says that **the university itself does not provide its own grants/discounts**. It describes **Russian government tuition-covering quotas**; a separate Open Doors route is described primarily for **Master's/PhD**, not a guaranteed General Medicine scholarship. [S21]
+The official university admissions FAQ says that **the university itself does not provide its own grants/discounts**. It describes **Russian government tuition-covering quotas**; a separate Open Doors route is described primarily for **Master's/PhD**, not a guaranteed General Medicine scholarship. [S21](https://www.sechenov.ru/eng/education-study/admission/)
 
 Only an **officially awarded scholarship or quota that identifies this exact applicant, institution, course, entry year and guaranteed multi-year fee coverage** can justify recalculating the family's personal net liability. A consultant promising an “NMC-approved budget Sechenov seat” without a genuine university award and itemised contract should be treated as **unverified**.
 
@@ -117,29 +117,29 @@ Only an **officially awarded scholarship or quota that identifies this exact app
 
 The **National Medical Commission of India (NMC) does not endorse an official list of foreign medical universities** for MBBS. The relevant question is whether **this exact programme, location, instruction pathway, internship and domestic registration entitlement** meet the rules applicable to **this student's entry cohort and eventual Indian registration application**.
 
-**World Directory of Medical Schools (WDOMS)** lists Sechenov as an operational public Russian medical school, but **WDOMS listing is not NMC approval or a promise of licensing rights**. [S11], [S22]
+**World Directory of Medical Schools (WDOMS)** lists Sechenov as an operational public Russian medical school, but **WDOMS listing is not NMC approval or a promise of licensing rights**. [S11](https://search.wdoms.org/home/SchoolDetail/F0001018), [S22](https://www.nmc.org.in/information-desk/for-students-to-study-in-abroad/1000/)
 
-The **Foreign Medical Graduate Licentiate Regulations (FMGL), 2021**, are a core baseline for prospective entrants. Later Indian notices, court decisions, NMC FAQs and the actual rules in force when applying must be rechecked. The official NMC rules index also lists a **8 June 2026 FAQ**, and 2026 notices address how real in-person clinical training is assessed. [S12], [S13]
+The **Foreign Medical Graduate Licentiate Regulations (FMGL), 2021**, are a core baseline for prospective entrants. Later Indian notices, court decisions, NMC FAQs and the actual rules in force when applying must be rechecked. The official NMC rules index also lists a **8 June 2026 FAQ**, and 2026 notices address how real in-person clinical training is assessed. [S12](https://www.nmc.org.in/MCIRest/open/getDocument?path=%2FDocuments%2FPublic%2FPortal%2FLatestNews%2F231275.pdf), [S13](https://nmc.org.in/page/rules-regulations-rules-regulations-nmc)
 
 ### 2.2 Requirement-by-requirement audit
 
 | NMC / legal question | Sechenov-specific evidence | Conclusion |
 |---|---|---|
-| **Basic qualifying medical degree?** | Official General Medicine programme code **31.05.01**, Specialist / Medical Doctor, full-time six years. [S01], [S05] | **Programme identity documented**; no Indian approval implied. |
-| **Minimum 54 months of foreign medical education?** | Official course **6 years / 12 semesters**. [S05] | **Duration appears to meet the minimum** if genuinely taught in-person for the full required period. Exact attendance/transcripts still matter. |
-| **Minimum 12 months qualifying internship at the SAME foreign medical institution?** | Sechenov advertises clinical practical education/placements. Indian Embassy guidance says Russian programmes generally have 12+ months of **clinical rotation/clerkship within** the six-year programme. No Sechenov-specific signed record proving the required **separate 12-month internship** was established. [S07] | **NOT VERIFIED — potentially critical disqualifier**. A clerkship/rotation inside the six-year course must not automatically be counted as the foreign internship required by NMC. |
-| **English medium of degree instruction?** | Official English-taught General Medicine advertised. [S01], [S05] | **Advertised**, but request 2026/27 English-track curriculum, exam language, clinical-subject instruction and final English-medium diploma/certificate. |
-| **All prescribed medical subjects?** | Official programme syllabi list anatomy, basic sciences, surgery, medicine, obstetrics/gynaecology, paediatrics, psychiatry, community health, emergency care and more. [S14] | **Substantial subject coverage documented**; formal subject-by-subject NMC Schedule I equivalence still **NOT VERIFIED**. |
-| **Local professional registration/licence comparable to Russian citizens?** | Indian Embassy says a **Russian-language accreditation examination after final exams** is required to become eligible for a Russian medical practice licence. Sechenov publishes graduate primary-accreditation information. [S07], [S08] | **NOT VERIFIED for an Indian citizen**: ability to take/pass exam, language standard, full licence, visa/right-to-work and any citizenship conditions must be documented by competent authorities. |
-| **Training in permitted locations?** | Moscow campus is identified. Some advertisements mention international electives/partner rotations. [S01], [S06] | Require written map of **all compulsory teaching and internship sites**, and clarify whether any third-country rotation or transfer would breach relevant NMC rules. |
-| **Physical onsite study (not unremedied online learning)?** | Programme advertised as full-time. [S01] | Individual instruction/attendance must be documented. NMC issued 2026 clarification on compensating online periods with actual onsite study. [S13] |
+| **Basic qualifying medical degree?** | Official General Medicine programme code **31.05.01**, Specialist / Medical Doctor, full-time six years. [S01](https://international.sechenov.ru/directions/general-medicine/en), [S05](https://www.sechenov.ru/eng/education-study/undergraduate/general-medicine/) | **Programme identity documented**; no Indian approval implied. |
+| **Minimum 54 months of foreign medical education?** | Official course **6 years / 12 semesters**. [S05](https://www.sechenov.ru/eng/education-study/undergraduate/general-medicine/) | **Duration appears to meet the minimum** if genuinely taught in-person for the full required period. Exact attendance/transcripts still matter. |
+| **Minimum 12 months qualifying internship at the SAME foreign medical institution?** | Sechenov advertises clinical practical education/placements. Indian Embassy guidance says Russian programmes generally have 12+ months of **clinical rotation/clerkship within** the six-year programme. No Sechenov-specific signed record proving the required **separate 12-month internship** was established. [S07](https://indianembassy-moscow.gov.in/pdf/Information%20for%20prospective%20Indian%20medical%20students-new.pdf) | **NOT VERIFIED — potentially critical disqualifier**. A clerkship/rotation inside the six-year course must not automatically be counted as the foreign internship required by NMC. |
+| **English medium of degree instruction?** | Official English-taught General Medicine advertised. [S01](https://international.sechenov.ru/directions/general-medicine/en), [S05](https://www.sechenov.ru/eng/education-study/undergraduate/general-medicine/) | **Advertised**, but request 2026/27 English-track curriculum, exam language, clinical-subject instruction and final English-medium diploma/certificate. |
+| **All prescribed medical subjects?** | Official programme syllabi list anatomy, basic sciences, surgery, medicine, obstetrics/gynaecology, paediatrics, psychiatry, community health, emergency care and more. [S14](https://www.sechenov.ru/sveden/education/period_accreditation/) | **Substantial subject coverage documented**; formal subject-by-subject NMC Schedule I equivalence still **NOT VERIFIED**. |
+| **Local professional registration/licence comparable to Russian citizens?** | Indian Embassy says a **Russian-language accreditation examination after final exams** is required to become eligible for a Russian medical practice licence. Sechenov publishes graduate primary-accreditation information. [S07](https://indianembassy-moscow.gov.in/pdf/Information%20for%20prospective%20Indian%20medical%20students-new.pdf), [S08](https://www.sechenov.ru/univers/structure/institute/institut-klinicheskoy-meditsiny/pervichnaya-akkreditatsiya-vypusknikov-31-05-01-lechebnoe-delo/) | **NOT VERIFIED for an Indian citizen**: ability to take/pass exam, language standard, full licence, visa/right-to-work and any citizenship conditions must be documented by competent authorities. |
+| **Training in permitted locations?** | Moscow campus is identified. Some advertisements mention international electives/partner rotations. [S01](https://international.sechenov.ru/directions/general-medicine/en), [S06](https://www.sechenov.ru/eng/about-msmu/university-facilities/clinical-campus/) | Require written map of **all compulsory teaching and internship sites**, and clarify whether any third-country rotation or transfer would breach relevant NMC rules. |
+| **Physical onsite study (not unremedied online learning)?** | Programme advertised as full-time. [S01](https://international.sechenov.ru/directions/general-medicine/en) | Individual instruction/attendance must be documented. NMC issued 2026 clarification on compensating online periods with actual onsite study. [S13](https://nmc.org.in/page/rules-regulations-rules-regulations-nmc) |
 | **Indian entrance eligibility/NEET** | This student's school marks, qualification year and NEET status were not provided. | **STUDENT DATA PENDING**; verify Indian foreign-medical-study eligibility before admission. |
-| **Post-graduation Indian training and examinations** | FMGL framework requires applicable Indian qualifying/licensing exam(s) and **12 months of supervised internship in India**, subject to law and subsequent rules. [S12] | **Mandatory later route; not granted by a Russian diploma alone.** |
-| **University's domestic state accreditation** | Official Sechenov 2026/27 admissions programme document identifies the Moscow General Medicine **foreign-citizen competition** as **state accredited**, and the university's current programme information lists an indefinite accreditation period. [S09], [S14] | **Russian programme-accreditation evidence identified**; this is **not equivalent to NMC compliance or Indian licensure**. |
+| **Post-graduation Indian training and examinations** | FMGL framework requires applicable Indian qualifying/licensing exam(s) and **12 months of supervised internship in India**, subject to law and subsequent rules. [S12](https://www.nmc.org.in/MCIRest/open/getDocument?path=%2FDocuments%2FPublic%2FPortal%2FLatestNews%2F231275.pdf) | **Mandatory later route; not granted by a Russian diploma alone.** |
+| **University's domestic state accreditation** | Official Sechenov 2026/27 admissions programme document identifies the Moscow General Medicine **foreign-citizen competition** as **state accredited**, and the university's current programme information lists an indefinite accreditation period. [S09](https://www.sechenov.ru/upload/iblock/1e4/ndyzea02d1scarzd3xezngw734v1ljqg/Perechen-spetsialnostey-i-_ili_-napravleniy-podgotovki_-na-kotorye-provoditsya-priem-na-obuchenie-v-dannom-kalendarnom-godu-za-schet-byudzhetnykh-assignovaniy-federalnogo-byudzheta.pdf), [S14](https://www.sechenov.ru/sveden/education/period_accreditation/) | **Russian programme-accreditation evidence identified**; this is **not equivalent to NMC compliance or Indian licensure**. |
 
 ### 2.3 The internship question is decisive
 
-**Why this matters:** Russia's General Medicine degree normally lasts **six academic years** and includes ward training, clerkships and practical placements; however, the NMC baseline speaks of **both** an academic medical course of at least **54 months** **and** an internship of at least **12 months in the same institution**. [S07], [S12]
+**Why this matters:** Russia's General Medicine degree normally lasts **six academic years** and includes ward training, clerkships and practical placements; however, the NMC baseline speaks of **both** an academic medical course of at least **54 months** **and** an internship of at least **12 months in the same institution**. [S07](https://indianembassy-moscow.gov.in/pdf/Information%20for%20prospective%20Indian%20medical%20students-new.pdf), [S12](https://www.nmc.org.in/MCIRest/open/getDocument?path=%2FDocuments%2FPublic%2FPortal%2FLatestNews%2F231275.pdf)
 
 **Do not conclude**:
 - “Six years automatically contains the entire internship needed by India.”
@@ -163,10 +163,10 @@ The **Foreign Medical Graduate Licentiate Regulations (FMGL), 2021**, are a core
 ### 3.1 Programme architecture
 
 - **Official route:** General Medicine 31.05.01 (Specialist / Medical Doctor).
-- **Duration:** six academic years, twelve semesters, **360 credits**. [S05]
-- **Educational approach:** university describes competency-based progression from fundamental sciences to clinical diagnosis, treatment and emergency care. [S05]
-- **Typical curricular emphasis:** first **three** years focus on biomedical, natural-science and foundational material; from **fourth** year, more intensive clinical disciplines. This is a university overview, **not** a verified semester-by-semester timetable for the next intake. [S01]
-- The English university website links a detailed curriculum for **2018–2024 cohorts**; it is **historic**, not proof that every module/hour is identical for 2026/27 or 2027/28 students. Obtain the **current signed curriculum for the exact English track**. [S05]
+- **Duration:** six academic years, twelve semesters, **360 credits**. [S05](https://www.sechenov.ru/eng/education-study/undergraduate/general-medicine/)
+- **Educational approach:** university describes competency-based progression from fundamental sciences to clinical diagnosis, treatment and emergency care. [S05](https://www.sechenov.ru/eng/education-study/undergraduate/general-medicine/)
+- **Typical curricular emphasis:** first **three** years focus on biomedical, natural-science and foundational material; from **fourth** year, more intensive clinical disciplines. This is a university overview, **not** a verified semester-by-semester timetable for the next intake. [S01](https://international.sechenov.ru/directions/general-medicine/en)
+- The English university website links a detailed curriculum for **2018–2024 cohorts**; it is **historic**, not proof that every module/hour is identical for 2026/27 or 2027/28 students. Obtain the **current signed curriculum for the exact English track**. [S05](https://www.sechenov.ru/eng/education-study/undergraduate/general-medicine/)
 
 ### 3.2 Subjects and educational coverage
 
@@ -185,16 +185,16 @@ Sechenov's official education disclosure for **31.05.01** lists, among other sub
 | Emergency principles, nursing fundamentals | Orthopaedics, trauma, oncology, radiotherapy |
 | Health systems, ethics, evidence-based medicine | Medical rehabilitation, clinical pharmacology, forensic medicine |
 
-**Evidence level:** The subjects appear in official university curriculum/accreditation disclosures. They show **breadth on paper**, not the instructional hours, competence of each teacher, exam standards or the individual student's demonstrated bedside ability. [S14]
+**Evidence level:** The subjects appear in official university curriculum/accreditation disclosures. They show **breadth on paper**, not the instructional hours, competence of each teacher, exam standards or the individual student's demonstrated bedside ability. [S14](https://www.sechenov.ru/sveden/education/period_accreditation/)
 
 ### 3.3 Teaching hospitals and real clinical environment
 
 The university's own portals cite:
 
-- **N.V. Sklifosovsky Institute of Clinical Medicine**, described as having **49 departments and 21 clinical training bases** for its General Medicine curriculum. [S01]
-- A large university hospital network: an older English Clinical Campus page quotes **19 university hospitals and over 3,000 beds**, with approximately **50,000 inpatient and 300,000 outpatient visits per year**; a newer university “About” portal reports **7 university clinical hospitals, 4 specialist centres, roughly 80,000 inpatients and 300,000 outpatients annually**. [S06], [S10]
+- **N.V. Sklifosovsky Institute of Clinical Medicine**, described as having **49 departments and 21 clinical training bases** for its General Medicine curriculum. [S01](https://international.sechenov.ru/directions/general-medicine/en)
+- A large university hospital network: an older English Clinical Campus page quotes **19 university hospitals and over 3,000 beds**, with approximately **50,000 inpatient and 300,000 outpatient visits per year**; a newer university “About” portal reports **7 university clinical hospitals, 4 specialist centres, roughly 80,000 inpatients and 300,000 outpatients annually**. [S06](https://www.sechenov.ru/eng/about-msmu/university-facilities/clinical-campus/), [S10](https://welcome.sechenov.ru/en/about-the-university/)
 - The numbers above **are not automatically inconsistent**: they may refer to different dates, definitions of hospitals, clinics, campus units and patient-counting methods. They **must not be added together or treated as one current audited statistic**.
-- Current portal reports **4 simulation-centre branches**, **400 students in practical training simultaneously**, and **1,000+ practising doctors trained annually**. These are institution-level, university-published assertions, **not evidence that a particular international student independently performs any procedure**. [S10]
+- Current portal reports **4 simulation-centre branches**, **400 students in practical training simultaneously**, and **1,000+ practising doctors trained annually**. These are institution-level, university-published assertions, **not evidence that a particular international student independently performs any procedure**. [S10](https://welcome.sechenov.ru/en/about-the-university/)
 
 **Clinical access that must be verified before awarding `clinical_status=PASS`:**
 - Named clinical sites **actually assigned** to the English-medium General Medicine class;
@@ -212,14 +212,14 @@ The university's own portals cite:
 
 ### 3.4 Simulation and practical-skills training
 
-The university documents a simulation centre commonly called **Praxi Medica**, including activities across surgical disciplines, obstetrics/gynaecology, anaesthesia, paediatrics, emergency care and related fields. Its published description discusses simulation, expert observation/evaluation and training linked to clinical practice. [S06b]
+The university documents a simulation centre commonly called **Praxi Medica**, including activities across surgical disciplines, obstetrics/gynaecology, anaesthesia, paediatrics, emergency care and related fields. Its published description discusses simulation, expert observation/evaluation and training linked to clinical practice. [S06b](https://www.sechenov.ru/eng/about-msmu/university-facilities/clinical-simulation-center/)
 
 **Positive:** Real skills/simulation infrastructure is documented.  
 **Not established:** Exactly which modules, procedures, sessions and assessments are **mandatory and actually available to undergraduate international General Medicine students** in the target cohort. Some centre offerings are aimed at residents and already-qualified clinicians and cannot automatically be claimed for first-degree students.
 
 ### 3.5 Russian language — essential to LIVE practical learning
 
-The university advertises English instruction, but itself stresses **learning Russian in order to communicate with doctors, nurses and patients in Russian hospitals**. The Indian Embassy in Moscow independently makes the same point. [S01], [S07]
+The university advertises English instruction, but itself stresses **learning Russian in order to communicate with doctors, nurses and patients in Russian hospitals**. The Indian Embassy in Moscow independently makes the same point. [S01](https://international.sechenov.ru/directions/general-medicine/en), [S07](https://indianembassy-moscow.gov.in/pdf/Information%20for%20prospective%20Indian%20medical%20students-new.pdf)
 
 A family serious about actual bedside medicine must confirm:
 - When Russian language teaching starts and the **required year-3/year-4 proficiency level**;
@@ -253,24 +253,24 @@ A family serious about actual bedside medicine must confirm:
 
 | Layer | What is presently known | Missing proof |
 |---|---|---|
-| Russian Federation, national travel risk | Official **UK FCDO** advises against all Russia travel as of **16 November 2026**, citing security incidents, drone attacks and aviation disruption. **US State Department** lists **Level 4: Do Not Travel** for US citizens. These are **nationality-specific advisories**, not Indian-government instructions; they provide material context about the security environment. [S15], [S16] | Obtain **current Indian MEA and Embassy of India** guidance before travel; analyse change in the situation for the student's intended intake year. |
-| Moscow urban crime and safety | A large capital city with accessible emergency services; university provides emergency guidance [S23] | Independent current district-level crime statistics and student victimisation data for precise neighbourhoods |
+| Russian Federation, national travel risk | Official **UK FCDO** advises against all Russia travel as of **16 November 2026**, citing security incidents, drone attacks and aviation disruption. **US State Department** lists **Level 4: Do Not Travel** for US citizens. These are **nationality-specific advisories**, not Indian-government instructions; they provide material context about the security environment. [S15](https://www.gov.uk/foreign-travel-advice/russia), [S16](https://travel.state.gov/en/international-travel/travel-advisories/russia.html) | Obtain **current Indian MEA and Embassy of India** guidance before travel; analyse change in the situation for the student's intended intake year. |
+| Moscow urban crime and safety | A large capital city with accessible emergency services; university provides emergency guidance [S23](https://welcome.sechenov.ru/en/your-guide-to-russia/emergency-services/) | Independent current district-level crime statistics and student victimisation data for precise neighbourhoods |
 | University incidents | No independently audited 2023–2026 campus incident series obtained in this research | Police/university incident logs, harassment/ragging complaints, handling/outcomes and reporting quality |
-| Hostels | University identifies **five dormitories** and a formal placement process [S24] | Fire inspection, access control/CCTV policy, gender/room arrangements, staff ratios, complaint records and availability for non-Russians |
+| Hostels | University identifies **five dormitories** and a formal placement process [S24](https://welcome.sechenov.ru/en/about-the-university/accommodation-in-dormitories/) | Fire inspection, access control/CCTV policy, gender/room arrangements, staff ratios, complaint records and availability for non-Russians |
 | Night clinical rotations | Hospital network exists | Transport/escorts after late shifts; patient-area security; on-call response |
-| Student assistance | International support office, International Education Student Council and student disciplinary rules exist [S18], [S25] | Independent evidence of effectiveness and confidential incident-resolution outcomes |
+| Student assistance | International support office, International Education Student Council and student disciplinary rules exist [S18](https://www.sechenov.ru/eng/students/support-/), [S25](https://welcome.sechenov.ru/en/about-the-university/imo-student-council/) | Independent evidence of effectiveness and confidential incident-resolution outcomes |
 
 **No evidence supports a “100% crime-free campus” label.** Lack of published campus incident counts is **missing data, not zero crime**.
 
 ### 4.2 Travel-security issues that matter for this family
 
-The UK's official advice (updated **18 September 2026** and current **16 November 2026**) reports concerns about **drone/air-defence incidents, short-notice flight disruption and limited routes**, amid the ongoing Russia–Ukraine war. The US warning notes terrorism, unrest, detention and other issues affecting its nationals. [S15], [S16]
+The UK's official advice (updated **18 September 2026** and current **16 November 2026**) reports concerns about **drone/air-defence incidents, short-notice flight disruption and limited routes**, amid the ongoing Russia–Ukraine war. The US warning notes terrorism, unrest, detention and other issues affecting its nationals. [S15](https://www.gov.uk/foreign-travel-advice/russia), [S16](https://travel.state.gov/en/international-travel/travel-advisories/russia.html)
 
 **Neither source should be misrepresented as the Government of India's own advice.** For an Indian applicant, check the Indian Embassy/MEA at time of visa, departure and each return trip. Even if a particular neighbourhood has low ordinary street crime, **geopolitical travel risk, disrupted payments/flights and an unavailable emergency exit route are material to parents' safety decisions.**
 
 ### 4.3 University accommodation
 
-Sechenov's current accommodation guide lists these **Moscow dormitories** [S24]:
+Sechenov's current accommodation guide lists these **Moscow dormitories** [S24](https://welcome.sechenov.ru/en/about-the-university/accommodation-in-dormitories/):
 
 | Dormitory | Published location |
 |---|---|
@@ -280,13 +280,13 @@ Sechenov's current accommodation guide lists these **Moscow dormitories** [S24]:
 | No. 4 | 7, 11th Parkovaya Street — Pervomayskaya metro |
 | No. 5 | 15 Azovskaya Street — Sevastopolskaya metro |
 
-Housing is **not guaranteed** for every self-funded entrant. Students apply after enrolment; an accommodation commission and waiting list determine placements, with priority for designated categories. If full, the university may offer a partner-institution dormitory. Obtain **written confirmation of the exact dormitory, address, cost, room type, move-in date and rules**, especially if the student is a minor. [S24]
+Housing is **not guaranteed** for every self-funded entrant. Students apply after enrolment; an accommodation commission and waiting list determine placements, with priority for designated categories. If full, the university may offer a partner-institution dormitory. Obtain **written confirmation of the exact dormitory, address, cost, room type, move-in date and rules**, especially if the student is a minor. [S24](https://welcome.sechenov.ru/en/about-the-university/accommodation-in-dormitories/)
 
-The university guide describes notification requirements for prolonged absence and foreign travel, and a separate set of internal conduct rules for students. Read these **before committing to accommodation**. [S24], [S26]
+The university guide describes notification requirements for prolonged absence and foreign travel, and a separate set of internal conduct rules for students. Read these **before committing to accommodation**. [S24](https://welcome.sechenov.ru/en/about-the-university/accommodation-in-dormitories/), [S26](https://welcome.sechenov.ru/en/about-the-university/rules-of-internal-conduct-for-students/)
 
 ### 4.4 Practical safety and emergency resources
 
-Sechenov's guide gives Russia's emergency numbers **112** (all services), **102** (police), **103** (ambulance) and **101** (fire). Students should also know the nearest hospital, international office, local police and **Embassy of India in Moscow**. [S23]
+Sechenov's guide gives Russia's emergency numbers **112** (all services), **102** (police), **103** (ambulance) and **101** (fire). Students should also know the nearest hospital, international office, local police and **Embassy of India in Moscow**. [S23](https://welcome.sechenov.ru/en/your-guide-to-russia/emergency-services/)
 
 **Priority 4 decision:** **`safety_status=MATERIAL_CONCERNS`**, with **campus-/hostel-level incident statistics NOT VERIFIED**. Do not promise a crime-free environment.
 
@@ -296,7 +296,7 @@ Sechenov's guide gives Russia's emergency numbers **112** (all services), **102*
 
 ### 5.1 Russia: graduation is not the same as a medical licence
 
-The Indian Embassy in Moscow cautions that Russian medical graduates must clear a **Russian-language accreditation examination after their final examination** to obtain a certificate qualifying for medical practice in Russia. Sechenov posts a **2026 primary-accreditation page for 31.05.01 General Medicine**. [S07], [S08]
+The Indian Embassy in Moscow cautions that Russian medical graduates must clear a **Russian-language accreditation examination after their final examination** to obtain a certificate qualifying for medical practice in Russia. Sechenov posts a **2026 primary-accreditation page for 31.05.01 General Medicine**. [S07](https://indianembassy-moscow.gov.in/pdf/Information%20for%20prospective%20Indian%20medical%20students-new.pdf), [S08](https://www.sechenov.ru/univers/structure/institute/institut-klinicheskoy-meditsiny/pervichnaya-akkreditatsiya-vypusknikov-31-05-01-lechebnoe-delo/)
 
 Before claiming that an **Indian national** could practise in Russia, establish:
 1. Whether this specific foreign student's education/visa and diploma make them eligible for **primary accreditation**;
@@ -309,7 +309,7 @@ Before claiming that an **Indian national** could practise in Russia, establish:
 
 ### 5.2 Postgraduate specialization, residency and research
 
-Sechenov advertises a substantial medical postgraduate system, with its current portal reporting **75+ residency programmes, 80+ postgraduate programmes, 90+ research laboratories** and numerous international academic collaborations. [S10] The General Medicine programme lists potential specialties (including general/internal medicine, obstetrics, anaesthesia, cardiology and neurology), and onward **ordinatura (residency)**, Master's and PhD routes. [S01]
+Sechenov advertises a substantial medical postgraduate system, with its current portal reporting **75+ residency programmes, 80+ postgraduate programmes, 90+ research laboratories** and numerous international academic collaborations. [S10](https://welcome.sechenov.ru/en/about-the-university/) The General Medicine programme lists potential specialties (including general/internal medicine, obstetrics, anaesthesia, cardiology and neurology), and onward **ordinatura (residency)**, Master's and PhD routes. [S01](https://international.sechenov.ru/directions/general-medicine/en)
 
 **Distinctions:**
 - A specialty mentioned on a course website is **not** a direct specialist qualification on graduation.
@@ -319,7 +319,7 @@ Sechenov advertises a substantial medical postgraduate system, with its current 
 
 ### 5.3 India return route
 
-The student must independently satisfy the **applicable Indian NMC foreign medical graduate regulations**, required internship(s), registration and current qualifying exams; this report establishes **no guaranteed Indian licence or medical college equivalence**. [S12], [S13]
+The student must independently satisfy the **applicable Indian NMC foreign medical graduate regulations**, required internship(s), registration and current qualifying exams; this report establishes **no guaranteed Indian licence or medical college equivalence**. [S12](https://www.nmc.org.in/MCIRest/open/getDocument?path=%2FDocuments%2FPublic%2FPortal%2FLatestNews%2F231275.pdf), [S13](https://nmc.org.in/page/rules-regulations-rules-regulations-nmc)
 
 ### 5.4 Outcome data still required
 
@@ -341,19 +341,19 @@ Request directly:
 
 ### 6.1 2026/27 published admissions facts
 
-The university's **English-language General Medicine** and **Russian-language** programmes are listed in its official international portal as **six-year, full-time** courses. The main Moscow N.V. Sklifosovsky institute is separately shown with **800 paid places for the international General Medicine competition**. **A paid-place count is not a guaranteed admission seat**. [S02]
+The university's **English-language General Medicine** and **Russian-language** programmes are listed in its official international portal as **six-year, full-time** courses. The main Moscow N.V. Sklifosovsky institute is separately shown with **800 paid places for the international General Medicine competition**. **A paid-place count is not a guaranteed admission seat**. [S02](https://priem.sechenov.ru/international/)
 
-The university's 2026 course page lists a **regular admissions window from 20 June to 18 August 2026**, entrance examinations running to **20 August**, and an enrolment order date of **28 August 2026**. A separate **additional 2026 admission** announcement lists document dates **30 September–19 October (with tests) / 22 October (without tests)** and education-contract conclusion by **28 October 2026**. **All of those dates are in the past as of this 16 November 2026 review.** Do **not** extrapolate them as 2027/28 deadlines. [S01], [S17]
+The university's 2026 course page lists a **regular admissions window from 20 June to 18 August 2026**, entrance examinations running to **20 August**, and an enrolment order date of **28 August 2026**. A separate **additional 2026 admission** announcement lists document dates **30 September–19 October (with tests) / 22 October (without tests)** and education-contract conclusion by **28 October 2026**. **All of those dates are in the past as of this 16 November 2026 review.** Do **not** extrapolate them as 2027/28 deadlines. [S01](https://international.sechenov.ru/directions/general-medicine/en), [S17](https://www.sechenov.ru/eng/education-study/admission/)
 
 ### 6.2 Entrance examination and educational prerequisites
 
-The published programme portal shows **Chemistry and Russian** passing thresholds in one General Medicine presentation; domestic applicant listings may include **Chemistry, Biology and Russian language**. Because **the entrance requirements vary by applicant category, campus, instructional track and examination entitlement**, the exact **English-track entrance test combination, language and pass marks for an Indian school-leaver** remain **NOT VERIFIED**. Obtain an official written instruction from Sechenov admissions for the intended year rather than relying on a third-party consultant. [S01], [S02]
+The published programme portal shows **Chemistry and Russian** passing thresholds in one General Medicine presentation; domestic applicant listings may include **Chemistry, Biology and Russian language**. Because **the entrance requirements vary by applicant category, campus, instructional track and examination entitlement**, the exact **English-track entrance test combination, language and pass marks for an Indian school-leaver** remain **NOT VERIFIED**. Obtain an official written instruction from Sechenov admissions for the intended year rather than relying on a third-party consultant. [S01](https://international.sechenov.ru/directions/general-medicine/en), [S02](https://priem.sechenov.ru/international/)
 
 Student-specific prerequisites to collect privately: Class 12 PCB marks, school board, NEET status, school-leaving year, date of birth/eligibility, passport, intended intake, language competence and long-term country of medical practice. **None has been supplied or should be invented; do not publish private information in this public repository.**
 
 ### 6.3 Published documents
 
-Sechenov's General Medicine admission page describes the following, subject to current cohort rules [S01]:
+Sechenov's General Medicine admission page describes the following, subject to current cohort rules [S01](https://international.sechenov.ru/directions/general-medicine/en):
 
 - Valid passport and notarized **Russian translation**;
 - Secondary-school qualification, properly legalised/apostilled where required and notarized Russian translation;
@@ -367,13 +367,13 @@ Sechenov's General Medicine admission page describes the following, subject to c
 
 ### 6.4 Scholarships and available routes
 
-Sechenov's official guidance discusses a **Russian government quota route** for eligible foreign students but says Sechenov does **not** itself provide ordinary tuition grants/discounts. A future applicant would need proof of eligibility and **official award**, not simply an application, to claim a net cost under ₹60 lakh. [S21]
+Sechenov's official guidance discusses a **Russian government quota route** for eligible foreign students but says Sechenov does **not** itself provide ordinary tuition grants/discounts. A future applicant would need proof of eligibility and **official award**, not simply an application, to claim a net cost under ₹60 lakh. [S21](https://www.sechenov.ru/eng/education-study/admission/)
 
 ---
 
 ## 7. Student accommodation, daily life and cash planning (outside the university-fee ceiling)
 
-The university's official 2026-accessed cost-planning page provides **approximate** local expense figures, **separate from medical tuition** [S27]:
+The university's official 2026-accessed cost-planning page provides **approximate** local expense figures, **separate from medical tuition** [S27](https://welcome.sechenov.ru/en/migration-support/with-visa-cost-planning/):
 
 | Expense | Sechenov indicative amount (RUB) | Interpretation |
 |---|---:|---|
@@ -390,13 +390,13 @@ These examples **must not** be added to the ₹60 lakh **university-only** ceili
 
 ### 7.1 Visa invitation and registration
 
-Sechenov's visa guidance states that students may seek a university-issued invitation and describes an **approximately 21-working-day** processing period after document receipt is confirmed. The Russian student visa process normally begins with a consular application/invitation and initial visa validity requiring extension after arrival. Exact rules for an Indian citizen must be verified with the **Russian consulate**. [S28], [S29]
+Sechenov's visa guidance states that students may seek a university-issued invitation and describes an **approximately 21-working-day** processing period after document receipt is confirmed. The Russian student visa process normally begins with a consular application/invitation and initial visa validity requiring extension after arrival. Exact rules for an Indian citizen must be verified with the **Russian consulate**. [S28](https://welcome.sechenov.ru/en/migration-support/with-visa-invitation-from-the-university/), [S29](https://welcome.sechenov.ru/en/migration-support/with-visa-processing-visa-from-the-university/)
 
-The university's visa page advises migration registration after arrival; some pages say **within 5 days**, while an internal conduct page refers to **3 days** for international students. **Treat this as a source-specific difference requiring immediate clarification with the university Migration Office and the competent authorities; do not assume the longer period is safe.** [S26], [S29]
+The university's visa page advises migration registration after arrival; some pages say **within 5 days**, while an internal conduct page refers to **3 days** for international students. **Treat this as a source-specific difference requiring immediate clarification with the university Migration Office and the competent authorities; do not assume the longer period is safe.** [S26](https://welcome.sechenov.ru/en/about-the-university/rules-of-internal-conduct-for-students/), [S29](https://welcome.sechenov.ru/en/migration-support/with-visa-processing-visa-from-the-university/)
 
 ### 7.2 Making payments from India
 
-UK travel guidance notes that cards issued outside Russia on the Visa/Mastercard networks generally **do not work at Russian shops/ATMs**. University tuition-payment pages describe specific ruble transfer and approved processor methods. **Do not assume an Indian credit/debit card will work in Russia**, or that a particular Indian bank can transmit money to the university. [S20], [S30]
+UK travel guidance notes that cards issued outside Russia on the Visa/Mastercard networks generally **do not work at Russian shops/ATMs**. University tuition-payment pages describe specific ruble transfer and approved processor methods. **Do not assume an Indian credit/debit card will work in Russia**, or that a particular Indian bank can transmit money to the university. [S20](https://welcome.sechenov.ru/en/education/tuition-fees-for-international-students/), [S30](https://www.gov.uk/foreign-travel-advice/russia/entry-requirements)
 
 Before any payment, obtain a written university-generated invoice and separately confirm with the family's bank that the transfer route, sanctions/compliance checks, recipient banking details, exchange spread and refund method are **lawful and workable**.
 
@@ -404,9 +404,9 @@ Before any payment, obtain a written university-generated invoice and separately
 
 ## 8. University rules, support systems, and student experience
 
-**Documented support channels:** Sechenov publishes dedicated **General Medicine academic support emails**, an international student support office, an international student council, a dormitory housing office and a migration office. [S18], [S25]
+**Documented support channels:** Sechenov publishes dedicated **General Medicine academic support emails**, an international student support office, an international student council, a dormitory housing office and a migration office. [S18](https://www.sechenov.ru/eng/students/support-/), [S25](https://welcome.sechenov.ru/en/about-the-university/imo-student-council/)
 
-**Published conduct rules:** Attendance, academic integrity, personal data and patient confidentiality, prohibited substances/weapons, migration compliance, tuition payment, dormitory notifications, appeal/disciplinary procedures. These show **a formal policy structure**, not necessarily good enforcement or a zero-incident history. [S26]
+**Published conduct rules:** Attendance, academic integrity, personal data and patient confidentiality, prohibited substances/weapons, migration compliance, tuition payment, dormitory notifications, appeal/disciplinary procedures. These show **a formal policy structure**, not necessarily good enforcement or a zero-incident history. [S26](https://welcome.sechenov.ru/en/about-the-university/rules-of-internal-conduct-for-students/)
 
 **Independent student-experience audit still needed** (target at least **five** consenting current/very recent international **Moscow General Medicine** students, not admissions agents or Baku graduates):
 - English teaching quality by academic year;
@@ -428,14 +428,14 @@ Before any payment, obtain a written university-generated invoice and separately
 
 | Subject | Observed evidence | Treatment |
 |---|---|---|
-| Hospital numbers | Older university page says **19** university hospitals; newer student portal says **7** hospitals / 4 specialised centres. [S06], [S10] | Different definitions/times possible; **do not reconcile by guessing**. Request current legally affiliated hospital list and per-programme training schedule. |
-| Programme duration vs internship | Official **6 years** versus embassy description of **12+ months clerkship within the programme**. [S05], [S07] | Neither is proof of a **separate 12-month NMC internship**. **Escalate**. |
-| English instruction vs Russian practical/medical licensing | General Medicine advertised in English and Russian, but Russian communication and medical-accreditation examination matters. [S01], [S07] | Distinguish **academic teaching language**, **patient language** and **licensing examination language**. |
-| Admission dates | Regular intake timeline (June–August 2026) and extra intake timeline (September–October 2026). [S01], [S17] | These are **different phases**, not a contradiction; **neither is a confirmed 2027 deadline**. |
-| Scholarships | Russian government quotas mentioned; no routine university tuition discounts. [S21] | Do not assume a scholarship before a documented award. |
-| Russian state accreditation vs Indian licensure | University documents Russian state accreditation for 31.05.01; NMC demands student-specific conditions. [S09], [S12] | **Separate legal questions**; one cannot prove the other. |
-| Foreign student safety | University policies/hostels published; independent campus incident counts not located; official foreign travel advisories warn of Russia-wide risks. [S15], [S16], [S24], [S26] | Campus crime and geopolitical/security issues **both** matter; **not crime-free**. |
-| Official foreign-tuition portal translation | Some English portal labels say “tuition for citizens of Russian Federation” even in foreign student listing, but the Russian-language portal explicitly labels the **₽8.63m** 6-year schedule **for foreign citizens**. [S02] | **Use the Russian-language original and signed personal fee contract** to avoid translation confusion. |
+| Hospital numbers | Older university page says **19** university hospitals; newer student portal says **7** hospitals / 4 specialised centres. [S06](https://www.sechenov.ru/eng/about-msmu/university-facilities/clinical-campus/), [S10](https://welcome.sechenov.ru/en/about-the-university/) | Different definitions/times possible; **do not reconcile by guessing**. Request current legally affiliated hospital list and per-programme training schedule. |
+| Programme duration vs internship | Official **6 years** versus embassy description of **12+ months clerkship within the programme**. [S05](https://www.sechenov.ru/eng/education-study/undergraduate/general-medicine/), [S07](https://indianembassy-moscow.gov.in/pdf/Information%20for%20prospective%20Indian%20medical%20students-new.pdf) | Neither is proof of a **separate 12-month NMC internship**. **Escalate**. |
+| English instruction vs Russian practical/medical licensing | General Medicine advertised in English and Russian, but Russian communication and medical-accreditation examination matters. [S01](https://international.sechenov.ru/directions/general-medicine/en), [S07](https://indianembassy-moscow.gov.in/pdf/Information%20for%20prospective%20Indian%20medical%20students-new.pdf) | Distinguish **academic teaching language**, **patient language** and **licensing examination language**. |
+| Admission dates | Regular intake timeline (June–August 2026) and extra intake timeline (September–October 2026). [S01](https://international.sechenov.ru/directions/general-medicine/en), [S17](https://www.sechenov.ru/eng/education-study/admission/) | These are **different phases**, not a contradiction; **neither is a confirmed 2027 deadline**. |
+| Scholarships | Russian government quotas mentioned; no routine university tuition discounts. [S21](https://www.sechenov.ru/eng/education-study/admission/) | Do not assume a scholarship before a documented award. |
+| Russian state accreditation vs Indian licensure | University documents Russian state accreditation for 31.05.01; NMC demands student-specific conditions. [S09](https://www.sechenov.ru/upload/iblock/1e4/ndyzea02d1scarzd3xezngw734v1ljqg/Perechen-spetsialnostey-i-_ili_-napravleniy-podgotovki_-na-kotorye-provoditsya-priem-na-obuchenie-v-dannom-kalendarnom-godu-za-schet-byudzhetnykh-assignovaniy-federalnogo-byudzheta.pdf), [S12](https://www.nmc.org.in/MCIRest/open/getDocument?path=%2FDocuments%2FPublic%2FPortal%2FLatestNews%2F231275.pdf) | **Separate legal questions**; one cannot prove the other. |
+| Foreign student safety | University policies/hostels published; independent campus incident counts not located; official foreign travel advisories warn of Russia-wide risks. [S15](https://www.gov.uk/foreign-travel-advice/russia), [S16](https://travel.state.gov/en/international-travel/travel-advisories/russia.html), [S24](https://welcome.sechenov.ru/en/about-the-university/accommodation-in-dormitories/), [S26](https://welcome.sechenov.ru/en/about-the-university/rules-of-internal-conduct-for-students/) | Campus crime and geopolitical/security issues **both** matter; **not crime-free**. |
+| Official foreign-tuition portal translation | Some English portal labels say “tuition for citizens of Russian Federation” even in foreign student listing, but the Russian-language portal explicitly labels the **₽8.63m** 6-year schedule **for foreign citizens**. [S02](https://priem.sechenov.ru/international/) | **Use the Russian-language original and signed personal fee contract** to avoid translation confusion. |
 
 ### Confidence grades (not fake numeric scores)
 
@@ -497,10 +497,10 @@ Before any payment, obtain a written university-generated invoice and separately
 | Office | Published channel |
 |---|---|
 | Official Sechenov contact directory | https://www.sechenov.ru/eng/about-msmu/contact-us/ |
-| General Medicine academic support | **vasilev_yu_l@staff.sechenov.ru**, **velenko_p_s_1@staff.sechenov.ru** [S18] |
-| International student support | **intstudent@staff.sechenov.ru** [S18] |
-| Housing office | **housing@staff.sechenov.ru** [S24] |
-| Immigration and invitation | **invitation@staff.sechenov.ru** [S28] |
+| General Medicine academic support | **vasilev_yu_l@staff.sechenov.ru**, **velenko_p_s_1@staff.sechenov.ru** [S18](https://www.sechenov.ru/eng/students/support-/) |
+| International student support | **intstudent@staff.sechenov.ru** [S18](https://www.sechenov.ru/eng/students/support-/) |
+| Housing office | **housing@staff.sechenov.ru** [S24](https://welcome.sechenov.ru/en/about-the-university/accommodation-in-dormitories/) |
+| Immigration and invitation | **invitation@staff.sechenov.ru** [S28](https://welcome.sechenov.ru/en/migration-support/with-visa-invitation-from-the-university/) |
 | Official international admissions | https://priem.sechenov.ru/en/international/ |
 | NMC rules portal | https://nmc.org.in/page/rules-regulations-rules-regulations-nmc |
 | Embassy of India, Moscow | Official mission/education page; verify the presently correct contact before writing: https://indianembassy-moscow.gov.in/ |
